@@ -105,9 +105,10 @@ def fetch_releases(oauth_token):
 #     )
 
 def fetch_weekly():
-    return httpx.get(
-        "https://raw.githubusercontent.com/tw93/weekly/main/RECENT.md"
-    )
+    return ""
+    # return httpx.get(
+    #     "https://raw.githubusercontent.com/tw93/weekly/main/RECENT.md"
+    # )
 
 # def fetch_douban():
 #     entries = feedparser.parse("https://www.douban.com/feed/people/tangwei93/interests")["entries"]
@@ -122,7 +123,7 @@ def fetch_weekly():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://tw93.github.io/feed.xml")["entries"]
+    entries = feedparser.parse("https://acwind.github.io/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
