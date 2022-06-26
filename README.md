@@ -2,7 +2,7 @@
 
 <table width="960px">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 #### 🤾‍♂️ <a href="https://blog.acwinds.com" target="_blank">Recent Blog</a>
 
@@ -13,28 +13,6 @@
 * <a href='https://blog.acwinds.com/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94/2022/04/16/e5-a5-bd-e7-9a-84-e8-b4-ad-e7-89-a9-e5-86-b3-e7-ad-96-ef-bc-9a-e5-88-9b-e5-bb-ba-e4-b8-8d-e8-83-bd-e8-b4-ad-e4-b9-b0-e6-b8-85-e5-8d-95.html' target='_blank'>好的购物决策：创建“不能购买”清单</a> - 2022-04-16
 * <a href='https://blog.acwinds.com/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94/2022/01/17/do-not-manage-your-time.html' target='_blank'>我使用了时间管理app后，又放弃了它</a> - 2022-01-17
 <!-- blog ends -->
-
-
-</td>
-<td valign="top" width="50%">
-
-<!-- recent_releases starts -->
-
-<!-- recent_releases ends -->
 </td>
 </tr>
-<tr>
-<td valign="top" width="50%">
-
-
-</td>
-<td valign="top" width="50%">
-<!-- weekly starts -->
-
-
-<!-- weekly ends -->
-
-</td>
-</tr>
-
 </table>
