@@ -116,7 +116,7 @@ def fetch_douban():
         {
             "title": item["title"],
             "url": item["link"].split("#")[0],
-            "published": formatGMTime(item["pubDate"])
+            "published": formatGMTime(item["published"])
         }
         for item in entries
     ]
