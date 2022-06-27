@@ -1,10 +1,10 @@
 ## Hello,World!
 
-<table width="960px">
+<table width="95%">
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://blog.acwinds.com" target="_blank">Recent Blog</a>
+#### 🤾‍♂️ <a href="https://blog.acwinds.com" target="_blank">最近博客</a>
 
 <!-- blog starts -->
 * <a href='https://blog.acwinds.com/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94/2022/06/25/911zero.html' target='_blank'>入手雷神 911 Zero 游戏本</a> - 2022-06-25
@@ -14,5 +14,13 @@
 * <a href='https://blog.acwinds.com/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94/2022/01/17/do-not-manage-your-time.html' target='_blank'>我使用了时间管理app后，又放弃了它</a> - 2022-01-17
 <!-- blog ends -->
 </td>
+
+<td valign="top" width="50%">
+#### 🤾‍♂️ <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
+<!-- douban starts -->
+<!-- douban ends -->
+
+</td>
+
 </tr>
 </table>
