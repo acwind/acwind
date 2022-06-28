@@ -4,7 +4,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://blog.acwinds.com" target="_blank">最近博客</a>
+#### <a href="https://blog.acwinds.com" target="_blank">最近博客</a>
 
 <!-- blog starts -->
 * <a href='https://blog.acwinds.com/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94/2022/06/25/911zero.html' target='_blank'>入手雷神 911 Zero 游戏本</a> - 2022-06-25
@@ -16,7 +16,9 @@
 </td>
 
 <td valign="top" width="50%">
-#### 🤾‍♂️ <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
+
+#### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
+
 <!-- douban starts -->
 * <a href='http://movie.douban.com/subject/30407173/' target='_blank'>在看重启版同志亦凡人</a> - 2022-06-15
 * <a href='http://movie.douban.com/subject/30290864/' target='_blank'>在看时间旅行者的妻子</a> - 2022-05-23
@@ -24,6 +26,7 @@
 * <a href='http://movie.douban.com/subject/35451920/' target='_blank'>看过良医 第五季</a> - 2022-05-22
 * <a href='http://movie.douban.com/subject/30314848/' target='_blank'>看过瞬息全宇宙</a> - 2022-05-20
 <!-- douban ends -->
+
 
 </td>
 
