@@ -20,11 +20,11 @@
 #### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35154050/' target='_blank'>看过黑袍纠察队 第三季</a> - 2022-07-09
 * <a href='http://movie.douban.com/subject/34626347/' target='_blank'>看过黑袍纠察队 第二季</a> - 2022-07-06
 * <a href='http://movie.douban.com/subject/3703650/' target='_blank'>看过黑袍纠察队 第一季</a> - 2022-07-01
 * <a href='http://movie.douban.com/subject/30304994/' target='_blank'>看过奇异博士2：疯狂多元宇宙</a> - 2022-06-28
 * <a href='http://movie.douban.com/subject/30407173/' target='_blank'>在看重启版同志亦凡人</a> - 2022-06-15
-* <a href='http://movie.douban.com/subject/30290864/' target='_blank'>在看时间旅行者的妻子</a> - 2022-05-23
 <!-- douban ends -->
 
 
