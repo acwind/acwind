@@ -20,11 +20,11 @@
 #### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/27119156/' target='_blank'>看过怪奇物语 第三季</a> - 2022-08-03
+* <a href='http://movie.douban.com/subject/26844438/' target='_blank'>看过怪奇物语 第二季</a> - 2022-08-03
 * <a href='http://movie.douban.com/subject/26359270/' target='_blank'>看过怪奇物语 第一季</a> - 2022-07-28
 * <a href='http://movie.douban.com/subject/34858104/' target='_blank'>看过为全人类 第二季</a> - 2022-07-24
 * <a href='http://movie.douban.com/subject/27663962/' target='_blank'>看过为全人类 第一季</a> - 2022-07-18
-* <a href='http://movie.douban.com/subject/34963448/' target='_blank'>看过终极名单</a> - 2022-07-11
-* <a href='http://movie.douban.com/subject/35154050/' target='_blank'>看过黑袍纠察队 第三季</a> - 2022-07-09
 <!-- douban ends -->
 
 
