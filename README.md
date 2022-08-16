@@ -20,11 +20,11 @@
 #### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/34951104/' target='_blank'>看过金斯敦市长 第一季</a> - 2022-08-15
 * <a href='http://movie.douban.com/subject/35282083/' target='_blank'>看过为全人类 第三季</a> - 2022-08-13
 * <a href='http://movie.douban.com/subject/35303842/' target='_blank'>看过迷失之城</a> - 2022-08-06
 * <a href='http://movie.douban.com/subject/27119156/' target='_blank'>看过怪奇物语 第三季</a> - 2022-08-03
 * <a href='http://movie.douban.com/subject/26844438/' target='_blank'>看过怪奇物语 第二季</a> - 2022-08-03
-* <a href='http://movie.douban.com/subject/26359270/' target='_blank'>看过怪奇物语 第一季</a> - 2022-07-28
 <!-- douban ends -->
 
 
