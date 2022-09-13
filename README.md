@@ -20,11 +20,11 @@
 #### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/26762920/' target='_blank'>看过美国犯罪故事 第三季</a> - 2022-09-12
+* <a href='http://movie.douban.com/subject/26101233/' target='_blank'>看过美国犯罪故事 第一季</a> - 2022-09-12
+* <a href='http://movie.douban.com/subject/27008551/' target='_blank'>看过心灵猎人 第二季</a> - 2022-09-12
 * <a href='http://movie.douban.com/subject/26691486/' target='_blank'>看过心灵猎人 第一季</a> - 2022-09-07
 * <a href='http://movie.douban.com/subject/35169965/' target='_blank'>看过公寓大楼里的谋杀案 第一季</a> - 2022-09-04
-* <a href='http://movie.douban.com/subject/35599435/' target='_blank'>看过公寓大楼里的谋杀案 第二季</a> - 2022-09-04
-* <a href='http://movie.douban.com/subject/34951007/' target='_blank'>看过风骚律师 第六季</a> - 2022-08-16
-* <a href='http://movie.douban.com/subject/34951104/' target='_blank'>看过金斯敦市长 第一季</a> - 2022-08-15
 <!-- douban ends -->
 
 
