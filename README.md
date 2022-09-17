@@ -20,11 +20,11 @@
 #### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35088783/' target='_blank'>看过真相捕捉 第二季</a> - 2022-09-16
 * <a href='http://movie.douban.com/subject/35700395/' target='_blank'>看过坠落</a> - 2022-09-13
 * <a href='http://movie.douban.com/subject/26762920/' target='_blank'>看过美国犯罪故事 第三季</a> - 2022-09-12
 * <a href='http://movie.douban.com/subject/26101233/' target='_blank'>看过美国犯罪故事 第一季</a> - 2022-09-12
 * <a href='http://movie.douban.com/subject/27008551/' target='_blank'>看过心灵猎人 第二季</a> - 2022-09-12
-* <a href='http://movie.douban.com/subject/26691486/' target='_blank'>看过心灵猎人 第一季</a> - 2022-09-07
 <!-- douban ends -->
 
 
