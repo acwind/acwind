@@ -17,6 +17,9 @@
 
 <td valign="top" width="50%">
 
+<p>
+  <a target="_blank" href="https://trakt.tv/users/acwind"><img width="500" height="281" alt="acwind" src="https://widgets.trakt.tv/users/1f712e5c320ac20984774069f2b6daa7/watched/fanart2@2x.jpg" /></a>
+</p>
 #### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
 
 <!-- douban starts -->
