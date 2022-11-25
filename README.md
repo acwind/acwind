@@ -20,11 +20,11 @@
 #### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/2154343/' target='_blank'>看过火线 第三季</a> - 2022-11-24
 * <a href='http://movie.douban.com/subject/2154348/' target='_blank'>看过火线  第二季</a> - 2022-10-29
 * <a href='http://movie.douban.com/subject/35603071/' target='_blank'>看过家庭经济学 第二季</a> - 2022-10-20
 * <a href='http://movie.douban.com/subject/30214145/' target='_blank'>看过RRR</a> - 2022-10-19
 * <a href='http://movie.douban.com/subject/30362418/' target='_blank'>看过家庭经济学 第一季</a> - 2022-10-16
-* <a href='http://movie.douban.com/subject/35190584/' target='_blank'>看过足球教练 第二季</a> - 2022-09-25
 <!-- douban ends -->
 
 
