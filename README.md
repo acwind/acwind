@@ -7,11 +7,11 @@
 #### <a href="https://blog.acwinds.com" target="_blank">最近博客</a>
 
 <!-- blog starts -->
+* <a href='https://blog.acwinds.com/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94/2022/11/27/false-touching.html' target='_blank'>“只为感动自己”的虚假关心</a> - 2022-11-27
 * <a href='https://blog.acwinds.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2022/11/25/how-to-connect-my-home-pc.html' target='_blank'>记一次远程连接家里电脑的折腾</a> - 2022-11-25
 * <a href='https://blog.acwinds.com/%E5%AE%A0%E7%89%A9%E4%BA%BA%E7%94%9F/2022/11/24/help-my-cat-again.html' target='_blank'>拯救大猫波波</a> - 2022-11-24
 * <a href='https://blog.acwinds.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2022/11/05/thinking-of-ai-draw-stable-diffusion.html' target='_blank'>关于AI绘画利与弊的一点思考</a> - 2022-11-05
 * <a href='https://blog.acwinds.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2022/10/25/MacOS-Ventura-issues.html' target='_blank'>升级Mac OS Ventura 后 Bartender 权限的问题</a> - 2022-10-25
-* <a href='https://blog.acwinds.com/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94/2022/10/23/look-for-cat.html' target='_blank'>猫丢了</a> - 2022-10-23
 <!-- blog ends -->
 </td>
 
