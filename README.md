@@ -20,11 +20,7 @@
 #### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/35420024/' target='_blank'>看过小谢尔顿 第六季</a> - 2022-12-28
-* <a href='http://movie.douban.com/subject/35099708/' target='_blank'>看过解放黑奴</a> - 2022-12-28
-* <a href='http://movie.douban.com/subject/34969348/' target='_blank'>看过伊尼舍林的报丧女妖</a> - 2022-12-28
-* <a href='http://movie.douban.com/subject/35517425/' target='_blank'>看过天下长河</a> - 2022-12-28
-* <a href='http://movie.douban.com/subject/35561222/' target='_blank'>看过白莲花度假村 第二季</a> - 2022-12-13
+
 <!-- douban ends -->
 
 
