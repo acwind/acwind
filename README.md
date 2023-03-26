@@ -20,11 +20,11 @@
 #### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35371261/' target='_blank'>看过铃芽之旅</a> - 2023-03-25
 * <a href='http://movie.douban.com/subject/35312421/' target='_blank'>看过鲸</a> - 2023-03-20
 * <a href='http://movie.douban.com/subject/34610636/' target='_blank'>看过蚁人与黄蜂女：量子狂潮</a> - 2023-02-28
 * <a href='http://movie.douban.com/subject/30194980/' target='_blank'>看过巴瑞 第二季</a> - 2023-02-28
 * <a href='http://movie.douban.com/subject/33406474/' target='_blank'>看过巴瑞 第三季</a> - 2023-02-28
-* <a href='http://movie.douban.com/subject/26707518/' target='_blank'>看过巴瑞 第一季</a> - 2023-02-28
 <!-- douban ends -->
 
 
