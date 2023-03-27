@@ -7,11 +7,11 @@
 #### <a href="https://blog.acwinds.com" target="_blank">最近博客</a>
 
 <!-- blog starts -->
+* <a href='https://blog.acwinds.com/%E7%BE%8E%E5%89%A7%E7%AC%94%E8%AE%B0/2023/03/26/Real-Or-Not.html' target='_blank'>真相没有那么重要</a> - 2023-03-26
 * <a href='https://blog.acwinds.com/%E8%AF%91%E6%96%87/2023/03/24/I-Bought-Back-My-Startup.html' target='_blank'>译文:我买回了被收购的初创公司</a> - 2023-03-24
 * <a href='https://blog.acwinds.com/%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0/2023/03/12/Use-ChatGPT.html' target='_blank'>使用OpenAI API构建自定义知识库AI的指南</a> - 2023-03-12
 * <a href='https://blog.acwinds.com/%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0/2023/03/03/certificate-expired.html' target='_blank'>x509 certificate has expired or is not yet valid</a> - 2023-03-03
 * <a href='https://blog.acwinds.com/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94/2023/03/01/Stoicism.html' target='_blank'>斯多葛主义</a> - 2023-03-01
-* <a href='https://blog.acwinds.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2023/02/28/How-to-edit-files-on-different-servers-in-Linux-in-bulk.html' target='_blank'>如何在Linux中批量编辑不同服务器上的不同文件</a> - 2023-02-28
 <!-- blog ends -->
 </td>
 
