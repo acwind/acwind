@@ -20,11 +20,7 @@
 #### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/35588177/' target='_blank'>看过漫长的季节</a> - 2023-05-08
-* <a href='http://movie.douban.com/subject/35413042/' target='_blank'>看过怒呛人生</a> - 2023-04-24
-* <a href='http://movie.douban.com/subject/35371261/' target='_blank'>看过铃芽之旅</a> - 2023-03-25
-* <a href='http://movie.douban.com/subject/35312421/' target='_blank'>看过鲸</a> - 2023-03-20
-* <a href='http://movie.douban.com/subject/34610636/' target='_blank'>看过蚁人与黄蜂女：量子狂潮</a> - 2023-02-28
+
 <!-- douban ends -->
 
 
