@@ -7,11 +7,11 @@
 #### <a href="https://blog.acwinds.com" target="_blank">最近博客</a>
 
 <!-- blog starts -->
+* <a href='https://blog.acwinds.com/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/2023/06/09/Excellent-Advice-for-Living.html' target='_blank'>凯文凯利关于优秀的生活建议</a> - 2023-06-09
 * <a href='https://blog.acwinds.com/%E7%9C%8B%E7%BE%8E%E5%89%A7,%E5%AD%A6%E8%8B%B1%E8%AF%AD/2023/06/06/paycheck-to-paycheck.html' target='_blank'>看美剧英语学习：Paycheck to paycheck</a> - 2023-06-06
 * <a href='https://blog.acwinds.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2023/05/17/autohide-sbadmin-sidebar.html' target='_blank'>SB Admin 2 如何让侧边栏在屏幕缩小的时候隐藏</a> - 2023-05-17
 * <a href='https://blog.acwinds.com/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94/2023/05/12/hk-card.html' target='_blank'>我的香港银行卡办理</a> - 2023-05-12
 * <a href='https://blog.acwinds.com/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94/2023/05/08/Time-limit-of-emotions.html' target='_blank'>情绪的时间限定</a> - 2023-05-08
-* <a href='https://blog.acwinds.com/ai%E4%B9%8B%E5%85%89/2023/03/28/Dreambooth-Install-Issue.html' target='_blank'>Stable Diffusion 安装 dreambooth 时 project_dir 的问题解决</a> - 2023-03-28
 <!-- blog ends -->
 </td>
 
