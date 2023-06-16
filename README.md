@@ -7,11 +7,11 @@
 #### <a href="https://blog.acwinds.com" target="_blank">最近博客</a>
 
 <!-- blog starts -->
+* <a href='https://blog.acwinds.com/%E7%BE%8E%E5%89%A7%E7%AC%94%E8%AE%B0/2023/06/15/wrap-around-the-finger.html' target='_blank'>看美剧学英语——wrap around the finger</a> - 2023-06-15
 * <a href='https://blog.acwinds.com/%E7%BE%8E%E5%89%A7%E7%AC%94%E8%AE%B0/2023/06/13/its-on-the-QT.html' target='_blank'>看美剧学英语——It’s on the QT</a> - 2023-06-13
 * <a href='https://blog.acwinds.com/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/2023/06/09/Excellent-Advice-for-Living.html' target='_blank'>凯文凯利关于优秀的生活建议</a> - 2023-06-09
 * <a href='https://blog.acwinds.com/%E7%9C%8B%E7%BE%8E%E5%89%A7,%E5%AD%A6%E8%8B%B1%E8%AF%AD/2023/06/06/paycheck-to-paycheck.html' target='_blank'>看美剧英语学习：Paycheck to paycheck</a> - 2023-06-06
 * <a href='https://blog.acwinds.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2023/05/17/autohide-sbadmin-sidebar.html' target='_blank'>SB Admin 2 如何让侧边栏在屏幕缩小的时候隐藏</a> - 2023-05-17
-* <a href='https://blog.acwinds.com/%E5%BF%83%E6%83%85%E9%9A%8F%E7%AC%94/2023/05/12/hk-card.html' target='_blank'>我的香港银行卡办理</a> - 2023-05-12
 <!-- blog ends -->
 </td>
 
