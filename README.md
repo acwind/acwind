@@ -7,11 +7,11 @@
 #### <a href="https://blog.acwinds.com" target="_blank">最近博客</a>
 
 <!-- blog starts -->
+* <a href='https://blog.acwinds.com/%E7%BF%BB%E8%AF%91/2023/06/29/burnout.html' target='_blank'>两分钟职业倦怠检查</a> - 2023-06-29
 * <a href='https://blog.acwinds.com/%E7%BE%8E%E5%89%A7%E7%AC%94%E8%AE%B0/2023/06/26/be-a-goldfish.html' target='_blank'>看美剧学英语 —— Be a goldfish</a> - 2023-06-26
 * <a href='https://blog.acwinds.com/%E7%BF%BB%E8%AF%91%E6%91%98%E6%8A%84/2023/06/24/32-Brief-Life-Lessons.html' target='_blank'>32个简短的人生学习清单</a> - 2023-06-24
 * <a href='https://blog.acwinds.com/%E7%BE%8E%E5%89%A7%E7%AC%94%E8%AE%B0/2023/06/21/break-a-leg.html' target='_blank'>看美剧学英语 —— Break a leg</a> - 2023-06-21
 * <a href='https://blog.acwinds.com/%E7%BE%8E%E5%89%A7%E7%AC%94%E8%AE%B0/2023/06/18/apples-and-oranges1.html' target='_blank'>看美剧学英语——apples and oranges</a> - 2023-06-18
-* <a href='https://blog.acwinds.com/%E7%BE%8E%E5%89%A7%E7%AC%94%E8%AE%B0/2023/06/15/wrap-around-the-finger-copy.html' target='_blank'>看美剧学英语——wrap around the finger</a> - 2023-06-15
 <!-- blog ends -->
 </td>
 
