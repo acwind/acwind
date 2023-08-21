@@ -20,7 +20,11 @@
 #### <a href="https://www.douban.com/people/140078908/" target="_blank">我的豆瓣</a>
 
 <!-- douban starts -->
-
+* <a href='http://movie.douban.com/subject/35876302/' target='_blank'>想看晒后假日</a> - 2023-08-13
+* <a href='http://movie.douban.com/subject/35901878/' target='_blank'>看过疯狂元素城</a> - 2023-06-29
+* <a href='http://movie.douban.com/subject/3011317/' target='_blank'>看过闪电侠</a> - 2023-06-29
+* <a href='http://movie.douban.com/subject/35237371/' target='_blank'>看过足球教练 第三季</a> - 2023-06-29
+* <a href='http://movie.douban.com/subject/26087471/' target='_blank'>看过俄罗斯方块</a> - 2023-05-14
 <!-- douban ends -->
 
 
