@@ -171,13 +171,15 @@ if __name__ == "__main__":
 
     # rewritten = replace_chunk(rewritten, "code_time", code_time_text)
 
-    doubans = fetch_douban()[:5]
 
-    doubans_md = "\n".join(
-        ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
-    )
 
-    rewritten = replace_chunk(rewritten, "douban", doubans_md)
+    # doubans = fetch_douban()[:5]
+    # doubans_md = "\n".join(
+    #     ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
+    # )
+    # rewritten = replace_chunk(rewritten, "douban", doubans_md)
+
+
 
 #     weekly_text = "\n"+fetch_weekly().text
     weekly_text = "\n"+fetch_weekly()
