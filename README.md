@@ -7,11 +7,11 @@
 #### <a href="https://blog.animesdata.com" target="_blank">My recent blog posts</a>
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2025/02/01/macbook-connect-public-wifi.html' target='_blank'>MacBook连接公共WiFi无法弹出认证页面的解决方法</a> - 2025-02-01
+* <a href='https://www.cocosdarkwood.com/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F/2025/01/31/Life-Lessons-from-the-First-Half-Century-of-My-Career-copy.html' target='_blank'>我职业生涯前半个世纪的人生经验</a> - 2025-01-31
+* <a href='https://www.cocosdarkwood.com/%E5%81%A5%E8%BA%AB/2025/01/28/we-need-discomfort.html' target='_blank'>我们生来需要”不舒适”：家务课与血糖仪教我的健康真相</a> - 2025-01-28
 * <a href='https://www.cocosdarkwood.com/%E5%81%A5%E8%BA%AB/2025/01/16/peace-and-love.html' target='_blank'>肌肉创伤后的恢复，从“RICE”到“PEACE&amp;LOVE”</a> - 2025-01-16
 * <a href='https://www.cocosdarkwood.com/%E8%BF%90%E7%BB%B4%E4%BA%BA%E7%94%9F/2024/12/05/python-env.html' target='_blank'>Python 虚拟环境（Virtual Environment）使用方法</a> - 2024-12-05
-* <a href='https://www.cocosdarkwood.com/%E8%BF%90%E7%BB%B4%E4%BA%BA%E7%94%9F/2024/11/15/block-ip-use-asn.html' target='_blank'>比屏蔽网段更好的屏蔽方法——屏蔽 ASN</a> - 2024-11-15
-* <a href='https://www.cocosdarkwood.com/%E8%BF%90%E7%BB%B4%E4%BA%BA%E7%94%9F/2024/11/02/writes-and-write-nots.html' target='_blank'>Nginx 屏蔽恶意域名解析</a> - 2024-11-02
-* <a href='https://www.cocosdarkwood.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2024/10/29/A-Guide-to-Using-Variables-in-Crontab.html' target='_blank'>如何在 Crontab 中使用变量</a> - 2024-10-29
 <!-- blog ends -->
 </td>
 
