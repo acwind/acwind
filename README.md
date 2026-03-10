@@ -10,11 +10,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-- <a href="https://www.cocosdarkwood.com/%E5%85%B6%E4%BB%96/2025/02/03/flow.html" target="_blank">为什么越忙越焦虑？破解心流状态与压力过载的关键差异</a> · 2025-02-03  
-- <a href="https://www.cocosdarkwood.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2025/02/01/macbook-connect-public-wifi.html" target="_blank">MacBook连接公共WiFi无法弹出认证页面的解决方法</a> · 2025-02-01  
-- <a href="https://www.cocosdarkwood.com/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F/2025/01/31/Life-Lessons-from-the-First-Half-Century-of-My-Career-copy.html" target="_blank">我职业生涯前半个世纪的人生经验</a> · 2025-01-31  
-- <a href="https://www.cocosdarkwood.com/%E5%81%A5%E8%BA%AB/2025/01/28/we-need-discomfort.html" target="_blank">我们生来需要“不舒适”：家务课与血糖仪教我的健康真相</a> · 2025-01-28  
-- <a href="https://www.cocosdarkwood.com/%E5%81%A5%E8%BA%AB/2025/01/16/peace-and-love.html" target="_blank">肌肉创伤后的恢复，从“RICE”到“PEACE&LOVE”</a> · 2025-01-16  
+* <a href='https://www.cocosdarkwood.com/%E6%8A%80%E6%9C%AF%E6%80%9D%E8%80%83/2026/03/06/thinking-hard.html' target='_blank'>我怀念那种用力思考的感觉</a> - 2026-03-06
+* <a href='https://www.cocosdarkwood.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2026/03/05/luck-surface-area.html' target='_blank'>发布作品会增加你的”幸运值”</a> - 2026-03-05
+* <a href='https://www.cocosdarkwood.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2026/02/28/whale-fall.html' target='_blank'>鲸落</a> - 2026-02-28
+* <a href='https://www.cocosdarkwood.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2026/02/20/22-Tiny-Lessons.html' target='_blank'>2 万亿美元的决策思维：Nicolai Tangen 的 22 条认知笔记</a> - 2026-02-20
+* <a href='https://www.cocosdarkwood.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2025/11/17/url.html' target='_blank'>你的 URL 就是你的状态</a> - 2025-11-17
 <!-- blog ends -->
 
 ---
