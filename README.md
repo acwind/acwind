@@ -2,9 +2,6 @@
 
 I'm a developer who enjoys building small tools, apps, and writing about tech & life.
 
-🌐 Blog: https://www.cocosdarkwood.com  
-🎬 Trakt: https://trakt.tv/users/acwind  
-
 ---
 
 ## 📝 Recent Blog Posts
@@ -21,7 +18,7 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 
 ## 🎬 Recently Watching
 
-[![Trakt Watching](https://widgets.trakt.tv/users/1f712e5c320ac20984774069f2b6daa7/watched/fanart2@2x.jpg)](https://trakt.tv/users/acwind)
+[![Trakt Watching](https://widgets.trakt.tv/users/1f712e5c320ac20984774069f2b6daa7/watched/fanart2.jpg)](https://trakt.tv/users/acwind)
 
 ---
 
@@ -37,7 +34,3 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📈 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=acwind)
-
----
-
-⭐️ From [acwind](https://github.com/acwind)
