@@ -34,14 +34,6 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=acwind&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acwind&layout=compact)
-
----
-
 ## 📈 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=acwind)
