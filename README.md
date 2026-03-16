@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/03/15/doomporn-ai-future.html' target='_blank'>当谈论AI时，我们为什么总爱看”末日爽文”</a> - 2026-03-15
+* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/03/15/%E5%BD%93-AI-%E5%BC%80%E5%A7%8B%E6%89%B9%E9%87%8F%E7%94%9F%E4%BA%A7%E6%B8%B8%E6%88%8F-%E6%88%91%E4%BB%AC%E8%BF%98%E9%9C%80%E8%A6%81%E6%B8%B8%E6%88%8F%E5%AA%92%E4%BD%93%E5%90%97.html' target='_blank'>当 AI 开始批量生产游戏，我们还需要游戏媒体吗？</a> - 2026-03-15
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/03/14/my-job-ten-years.html' target='_blank'>我的工作十年后还会存在吗？</a> - 2026-03-14
 * <a href='https://www.cocosdarkwood.com/2026/03/13/goals-and-strategy.html' target='_blank'>目标与策略：方向比终点更重要</a> - 2026-03-13
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/03/13/why-helpful-tools-make-us-busier.html' target='_blank'>当”省时”工具让我们更忙：AI 时代的工作困境</a> - 2026-03-13
-* <a href='https://www.cocosdarkwood.com/2026/03/11/%E6%9C%AA%E6%9D%A5%E5%8F%AA%E8%83%BD%E7%AD%89%E5%BE%85.html' target='_blank'>未来只能等待</a> - 2026-03-11
-* <a href='https://www.cocosdarkwood.com/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/2026/03/10/outliers-jw-marriott.html' target='_blank'>《离群者》J.W. 万豪：在没有总体规划的情况下建立商业帝国</a> - 2026-03-10
 <!-- blog ends -->
 
 ---
