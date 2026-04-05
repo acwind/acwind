@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/05/in-defense-of-thinking.html' target='_blank'>翻译：捍卫思考 (In Defense of Thinking)</a> - 2026-04-05
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/03/dont-let-ai-write-for-you.html' target='_blank'>翻译：别让 AI 替你写作 (Don’t Let AI Write For You)</a> - 2026-04-03
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/03/identify-solve-verify.html' target='_blank'>翻译：识别、解决、验证 (Identify, solve, verify)</a> - 2026-04-03
 * <a href='https://www.cocosdarkwood.com/%E8%AE%A4%E7%9F%A5%E6%80%9D%E8%80%83/2026/03/31/plank-knowledge.html' target='_blank'>那些满嘴”抓手、颗粒度”的人</a> - 2026-03-31
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/03/29/avoiding-digital-productivity-traps.html' target='_blank'>避免数字生产力陷阱 (Avoiding Digital Productivity Traps)</a> - 2026-03-29
-* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/03/29/vo2-max-and-the-metric-trap.html' target='_blank'>VO2 Max与指标陷阱 (VO2 Max and the Metric Trap)</a> - 2026-03-29
 <!-- blog ends -->
 
 ---
