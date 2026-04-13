@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/12/ta-208-what-ai-would-delete-from-great-writing.html' target='_blank'>TA #208: ‼️ AI 会从伟大的写作中删掉什么</a> - 2026-04-12
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/11/insecurities-and-permeability.html' target='_blank'>Insecurities and permeability (不安全感与被影响的程度)</a> - 2026-04-11
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/09/ceo-andy-jassy-2025-letter-to-shareholders.html' target='_blank'>亚马逊CEO Andy Jassy致股东信（2025）</a> - 2026-04-09
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/07/charlie-munger-checklist.html' target='_blank'>查理·芒格的投资清单 (Charlie Munger’s Investing Checklist)</a> - 2026-04-07
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/05/in-defense-of-thinking.html' target='_blank'>翻译：捍卫思考 (In Defense of Thinking)</a> - 2026-04-05
-* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/03/dont-let-ai-write-for-you.html' target='_blank'>翻译：别让 AI 替你写作 (Don’t Let AI Write For You)</a> - 2026-04-03
 <!-- blog ends -->
 
 ---
