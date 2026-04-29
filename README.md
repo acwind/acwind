@@ -9,9 +9,9 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 <!-- blog starts -->
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/23/the-3-dysfunctions-of-executive-teams.html' target='_blank'>高管团队的三大功能失调</a> - 2026-04-23
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/21/the-human-cost-of-10x-how-ai-is-physically-breaking-senior-engineers.html' target='_blank'>10x AI 生产力的代价：AI 如何正在从生理上摧毁资深工程师</a> - 2026-04-21
+* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/20/software-is-liquid.html' target='_blank'>Software Is Liquid</a> - 2026-04-20
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/12/no-diet-wins.html' target='_blank'>没有一种饮食法能赢得一切</a> - 2026-04-12
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/12/ta-208-what-ai-would-delete-from-great-writing.html' target='_blank'>TA #208: ‼️ AI 会从伟大的写作中删掉什么</a> - 2026-04-12
-* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/11/insecurities-and-permeability.html' target='_blank'>Insecurities and permeability (不安全感与被影响的程度)</a> - 2026-04-11
 <!-- blog ends -->
 
 ---
