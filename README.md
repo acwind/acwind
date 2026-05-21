@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/05/21/%E9%80%9F%E6%BA%B6%E5%92%96%E5%95%A1%E7%9A%84%E8%AF%9E%E7%94%9F.html' target='_blank'>速溶咖啡的诞生</a> - 2026-05-21
 * <a href='https://www.cocosdarkwood.com/%E5%BF%83%E6%83%85%E7%AC%94%E8%AE%B0/2026/05/16/%E6%97%85%E8%A1%8C%E7%9A%84%E7%A7%98%E8%AF%80-%E5%88%AB%E6%A8%A1%E4%BB%BF%E5%BD%93%E5%9C%B0%E4%BA%BA.html' target='_blank'>旅行的秘诀：别模仿当地人</a> - 2026-05-16
 * <a href='https://www.cocosdarkwood.com/%E6%88%90%E9%95%BF%E6%80%9D%E8%80%83/2026/05/08/%E4%BB%A5%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%96%B9%E5%BC%8F%E8%B5%A2%E5%BE%97%E8%83%9C%E5%88%A9.html' target='_blank'>以正确的方式赢得胜利</a> - 2026-05-08
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/05/07/i-left-port-22-open-54-days.html' target='_blank'>我让 22 端口在互联网上裸奔了 54 天，看看谁找上门来了</a> - 2026-05-07
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/05/03/%E8%A3%82%E7%97%95.html' target='_blank'>裂痕</a> - 2026-05-03
-* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/04/30/software-is-liquid.html' target='_blank'>软件正在变成液体</a> - 2026-04-30
 <!-- blog ends -->
 
 ---
