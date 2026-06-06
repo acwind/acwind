@@ -8,10 +8,10 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 
 <!-- blog starts -->
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/06/04/%E6%95%99%E7%9A%87vs%E7%A1%85%E8%B0%B7.html' target='_blank'>教皇 vs. 硅谷</a> - 2026-06-04
+* <a href='https://www.cocosdarkwood.com/ai%E8%A7%82%E5%AF%9F/2026/06/02/AI%E8%81%8C%E4%B8%9A%E6%82%B2%E4%BC%A4.html' target='_blank'>AI职业悲伤：一场正在冲击科技从业者、却无人命名的心理危机</a> - 2026-06-02
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/06/02/FFmpeg%E4%B8%8EVLC-%E4%BA%92%E8%81%94%E7%BD%91%E8%A7%86%E9%A2%91%E8%83%8C%E5%90%8E%E7%9A%84%E9%9A%90%E5%BD%A2%E5%B7%A8%E4%BA%BA.html' target='_blank'>FFmpeg与VLC：互联网视频背后的隐形巨人</a> - 2026-06-02
 * <a href='https://www.cocosdarkwood.com/%E5%BF%83%E6%83%85%E7%AC%94%E8%AE%B0/2026/05/28/%E5%AF%84%E4%B8%80%E5%8F%B0%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E5%88%B0%E4%B9%8C%E5%B9%B2%E8%BE%BE%E9%9A%BE%E6%B0%91%E8%90%A5.html' target='_blank'>寄一台笔记本电脑到乌干达难民营</a> - 2026-05-28
 * <a href='https://www.cocosdarkwood.com/%E5%BF%83%E6%83%85%E7%AC%94%E8%AE%B0/2026/05/28/%E8%B4%BE%E5%BE%B7%E6%A3%AE%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%B6%9F%E6%A0%A1%E8%BD%A6.html' target='_blank'>贾德森的最后一趟校车</a> - 2026-05-28
-* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/05/27/%E5%A6%82%E4%BD%95%E6%80%9D%E8%80%83-%E5%AE%89%E8%BF%AA%E6%A0%BC%E9%B2%81%E5%A4%AB%E7%9A%84%E6%95%85%E4%BA%8B.html' target='_blank'>如何思考——安迪·格鲁夫的故事</a> - 2026-05-27
 <!-- blog ends -->
 
 ---
