@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/%E5%BF%83%E6%83%85%E7%AC%94%E8%AE%B0/2026/06/12/%E4%B8%8E%E6%9C%AA%E7%AB%9F%E4%B9%8B%E6%A2%A6%E5%92%8C%E8%A7%A3.html' target='_blank'>与未竟之梦和解</a> - 2026-06-12
+* <a href='https://www.cocosdarkwood.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2026/06/12/%E7%A8%8B%E5%BA%8F%E5%91%98%E6%84%BF%E6%84%8F%E4%B8%BAClaude%E5%86%99%E6%96%87%E6%A1%A3%E5%8D%B4%E4%B8%8D%E6%84%BF%E6%84%8F%E4%B8%BA%E5%90%8C%E4%BA%8B%E5%86%99.html' target='_blank'>程序员愿意为Claude写文档，却不愿意为同事写</a> - 2026-06-12
+* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E5%AD%A6%E6%96%B0%E7%9F%A5/2026/06/11/%E4%BA%BA%E7%B1%BB%E5%A4%A9%E7%94%9F%E5%81%8F%E7%88%B1%E9%80%86%E6%97%B6%E9%92%88%E8%A1%8C%E8%B5%B0-%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%89%BE%E5%88%B0%E8%AF%81%E6%8D%AE%E5%8D%B4%E8%A7%A3%E9%87%8A%E4%B8%8D%E4%BA%86%E5%8E%9F%E5%9B%A0.html' target='_blank'>人类天生偏爱逆时针行走，科学家找到证据却解释不了原因</a> - 2026-06-11
+* <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/06/11/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-06-11</a> - 2026-06-11
 * <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/06/10/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-06-10</a> - 2026-06-10
-* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E8%A7%82%E5%AF%9F/2026/06/10/%E7%A7%91%E6%8A%80%E5%AE%85%E5%90%8D%E5%AA%9B-%E7%A1%85%E8%B0%B7AI%E6%B7%98%E9%87%91%E7%83%AD%E4%B8%AD%E7%9A%84%E5%8F%A6%E7%B1%BB%E5%8D%96%E9%93%B2%E4%BA%BA.html' target='_blank'>科技宅名媛：硅谷AI淘金热中的另类卖铲人</a> - 2026-06-10
-* <a href='https://www.cocosdarkwood.com/ai%E8%A7%82%E5%AF%9F/2026/06/09/%E4%B8%BA%E4%BB%80%E4%B9%88AI%E8%BF%98%E6%B2%A1%E6%8A%A2%E8%B5%B0%E6%88%91%E4%BB%AC%E7%9A%84%E5%B7%A5%E4%BD%9C.html' target='_blank'>为什么AI还没抢走我们的工作？</a> - 2026-06-09
-* <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/06/09/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-06-09</a> - 2026-06-09
-* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/06/08/mark-pincus-proven-better-new.html' target='_blank'>验证、更好、全新：Mark Pincus 论创新法则</a> - 2026-06-08
 <!-- blog ends -->
 
 ---
