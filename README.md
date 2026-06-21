@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/ai%E8%A7%82%E5%AF%9F/2026/06/20/Cloudflare%E4%B8%BAAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%8E%A8%E5%87%BA%E4%B8%B4%E6%97%B6%E8%B4%A6%E6%88%B7.html' target='_blank'>Cloudflare为AI智能体推出临时账户：消灭注册流程</a> - 2026-06-20
+* <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/06/20/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-06-20</a> - 2026-06-20
 * <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/06/19/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-06-19</a> - 2026-06-19
 * <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/06/18/%E5%A4%AA%E7%A9%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%80%8E%E4%B9%88%E6%95%A3%E7%83%AD.html' target='_blank'>太空数据中心怎么散热？一个物理估算</a> - 2026-06-18
 * <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/06/18/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-06-18</a> - 2026-06-18
-* <a href='https://www.cocosdarkwood.com/%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%94%9F/2026/06/18/%E7%BB%84%E5%90%88%E4%BB%BB%E5%8A%A1%E8%80%8C%E9%9D%9E%E5%AE%9E%E7%8E%B0.html' target='_blank'>组合任务，而非实现——构建复合AI系统的正确抽象</a> - 2026-06-18
-* <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/06/17/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-06-17</a> - 2026-06-17
 <!-- blog ends -->
 
 ---
