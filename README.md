@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/06/22/%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E6%95%B0.html' target='_blank'>万物皆对数</a> - 2026-06-22
+* <a href='https://www.cocosdarkwood.com/ai%E8%A7%82%E5%AF%9F/2026/06/22/%E4%B8%BA%E4%BB%80%E4%B9%88AI%E6%8A%95%E5%85%A5%E6%8D%A2%E4%B8%8D%E6%9D%A5%E6%88%90%E6%9E%9C.html' target='_blank'>为什么AI投入换不来成果？答案在瓶颈理论里</a> - 2026-06-22
+* <a href='https://www.cocosdarkwood.com/ai%E8%A7%82%E5%AF%9F/2026/06/22/%E4%BD%A0%E5%8F%AF%E8%83%BD%E7%94%A8%E9%94%99%E4%BA%86agent-skills.html' target='_blank'>你可能用错了 Agent Skills</a> - 2026-06-22
+* <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/06/22/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-06-22</a> - 2026-06-22
 * <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/06/21/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-06-21</a> - 2026-06-21
-* <a href='https://www.cocosdarkwood.com/ai%E8%A7%82%E5%AF%9F/2026/06/20/Cloudflare%E4%B8%BAAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%8E%A8%E5%87%BA%E4%B8%B4%E6%97%B6%E8%B4%A6%E6%88%B7.html' target='_blank'>Cloudflare为AI智能体推出临时账户：消灭注册流程</a> - 2026-06-20
-* <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/06/20/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-06-20</a> - 2026-06-20
-* <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/06/19/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-06-19</a> - 2026-06-19
-* <a href='https://www.cocosdarkwood.com/%E7%A7%91%E6%8A%80%E6%80%9D%E8%80%83/2026/06/18/%E5%A4%AA%E7%A9%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%80%8E%E4%B9%88%E6%95%A3%E7%83%AD.html' target='_blank'>太空数据中心怎么散热？一个物理估算</a> - 2026-06-18
 <!-- blog ends -->
 
 ---
