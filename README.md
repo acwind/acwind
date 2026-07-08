@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/07/07/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-07</a> - 2026-07-07
+* <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/07/06/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-06</a> - 2026-07-06
 * <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/07/05/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-05</a> - 2026-07-05
 * <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/07/04/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-04</a> - 2026-07-04
 * <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/07/03/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-03</a> - 2026-07-03
-* <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/07/02/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-02</a> - 2026-07-02
-* <a href='https://www.cocosdarkwood.com/%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5/2026/07/01/%E6%AF%8F%E6%97%A5%E7%81%B5%E6%84%9F%E6%8A%A5%E5%91%8A.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-01</a> - 2026-07-01
 <!-- blog ends -->
 
 ---
