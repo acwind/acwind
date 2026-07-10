@@ -7,13 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://www.cocosdarkwood.com/2026/07/08/让弃坑软件民主化.html' target='_blank'>让弃坑软件民主化</a> - Wed, 08 Jul 2026 23:30:00 +0000
-* <a href='https://www.cocosdarkwood.com/articles/no-diet-wins.html' target='_blank'>No Diet Wins</a> - Wed, 08 Jul 2026 14:45:11 +0000
-* <a href='https://www.cocosdarkwood.com/articles/flatland-programmers.html' target='_blank'>生活在扁平世界的程序员</a> - Wed, 08 Jul 2026 14:45:11 +0000
-* <a href='https://www.cocosdarkwood.com/articles/ta-208-what-ai-would-delete-from-great-writing.html' target='_blank'>TA #208: ‼️ What AI Would Delete From Great Writing
-
-TA #208: ‼️ What AI Would Delete From Great Writing</a> - Wed, 08 Jul 2026 14:45:11 +0000
-* <a href='https://www.cocosdarkwood.com/articles/software-is-liquid.html' target='_blank'>Software Is Liquid</a> - Wed, 08 Jul 2026 14:45:11 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/10/多巴胺开采-人类体验变成快消品.html' target='_blank'>多巴胺开采：我们如何把人类体验变成快消品</a> - Fri, 10 Jul 2026 09:05:00 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/10/hotspot-2026-07-10.html' target='_blank'>昨天深夜，ChatGPT 不再聊天了</a> - Fri, 10 Jul 2026 08:00:00 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/10/你老板可能得了"AI精神病"，而你正在替他买单.html' target='_blank'>你老板可能得了"AI精神病"，而你正在替他买单</a> - Fri, 10 Jul 2026 07:08:46 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/09/它一直在偷偷思考，而我们以为它只是在回答问题-v2.html' target='_blank'>它一直在偷偷思考，而我们以为它只是在回答问题</a> - 
+* <a href='https://www.cocosdarkwood.com/2026/07/09/每日灵感报告-2026-07-09.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-09</a> - 
 <!-- blog ends -->
 
 ---
