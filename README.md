@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/2026/07/13/有人发明了一种字体，人能看懂，AI 却抓瞎了.html' target='_blank'>有人发明了一种字体，人能看懂，AI 却抓瞎了</a> - Mon, 13 Jul 2026 09:49:07 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/13/hotspot-2026-07-13-2.html' target='_blank'>一道困了人类50年的数学题，昨天被64个AI「同事」花一小时解了</a> - Mon, 13 Jul 2026 08:00:00 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/13/5000米深的海底，有人在偷偷造氧气.html' target='_blank'>5000米深的海底，有人在偷偷造氧气</a> - Mon, 13 Jul 2026 07:10:20 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/12/每日灵感报告-2026-07-12.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-12</a> - Sun, 12 Jul 2026 13:30:00 +0000
 * <a href='https://www.cocosdarkwood.com/2026/07/12/hotspot-2026-07-12.html' target='_blank'>Siri 背后的那家公司，正在偷走 iPhone 的未来</a> - Sun, 12 Jul 2026 08:00:00 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/12/Claude 会"心里想想再说"了，科学家钻进去看了一圈，发现事情不太对劲.html' target='_blank'>Claude 会"心里想想再说"了，科学家钻进去看了一圈，发现事情不太对劲</a> - Sun, 12 Jul 2026 07:08:49 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/11/每日灵感报告-2026-07-11.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-11</a> - Sat, 11 Jul 2026 13:30:00 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/11/hotspot-2026-07-11.html' target='_blank'>德国热死了5120人。然后，他们的大使馆说：去湖里游泳吧。</a> - Sat, 11 Jul 2026 08:00:00 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/11/AI 终于长出了小脑：这个比人脑省电一万倍的装置，可能是今年最被低估的突破.html' target='_blank'>AI 终于长出了小脑：这个比人脑省电一万倍的装置，可能是今年最被低估的突破</a> - Sat, 11 Jul 2026 07:08:21 +0000
 <!-- blog ends -->
 
 ---
