@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/2026/07/16/hotspot-2026-07-16-2.html' target='_blank'>AI 替老板开了人，然后法律反手把公司告了</a> - 
+* <a href='https://www.cocosdarkwood.com/2026/07/16/hotspot-2026-07-16.html' target='_blank'>昨天，脑机接口第一次被写进了处方</a> - 
+* <a href='https://www.cocosdarkwood.com/2026/07/16/70人的开发团队裁掉62人，理由就一句话："Claude Fable 5 够了".html' target='_blank'>70人的开发团队裁掉62人，理由就一句话："Claude Fable 5 够了"</a> - 
+* <a href='https://www.cocosdarkwood.com/2026/07/15/每日灵感报告-2026-07-15.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-15</a> - Wed, 15 Jul 2026 13:30:00 +0000
 * <a href='https://www.cocosdarkwood.com/2026/07/15/hotspot-2026-07-15.html' target='_blank'>昨天，一家115岁的公司，死在了自己发明的未来里</a> - Wed, 15 Jul 2026 08:00:00 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/15/银河系中心有个"覆盆子味"的糖云？科学家在太空深处发现了生命的甜蜜秘密.html' target='_blank'>银河系中心有个"覆盆子味"的糖云？科学家在太空深处发现了生命的甜蜜秘密</a> - Wed, 15 Jul 2026 07:08:45 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/14/每日灵感报告-2026-07-14.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-14</a> - 
-* <a href='https://www.cocosdarkwood.com/2026/07/14/hotspot-2026-07-14.html' target='_blank'>花9万9在淘宝买的机器人，被一个00后推进了手术室，登上了Nature</a> - 
-* <a href='https://www.cocosdarkwood.com/2026/07/14/230万个AI在一个社交网络上自己玩了半年，结果让人后背发凉.html' target='_blank'>230万个AI在一个社交网络上自己玩了半年，结果让人后背发凉</a> - 
 <!-- blog ends -->
 
 ---
