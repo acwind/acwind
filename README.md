@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/2026/07/17/鳄梨出轨、香蕉复仇、海马怀孕：3.6亿人疯看的AI短剧，到底是谁的脑子坏了.html' target='_blank'>鳄梨出轨、香蕉复仇、海马怀孕：3.6亿人疯看的AI短剧，到底是谁的脑子坏了？</a> - Fri, 17 Jul 2026 07:11:54 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/16/每日灵感报告-2026-07-16.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-16</a> - 
+* <a href='https://www.cocosdarkwood.com/2026/07/16/今晚，全球第一场人形机器人格斗赛将在深圳开打：冠军腰带值1000万.html' target='_blank'>今晚，全球第一场人形机器人格斗赛将在深圳开打：冠军腰带值1000万</a> - 
 * <a href='https://www.cocosdarkwood.com/2026/07/16/hotspot-2026-07-16-2.html' target='_blank'>AI 替老板开了人，然后法律反手把公司告了</a> - 
 * <a href='https://www.cocosdarkwood.com/2026/07/16/hotspot-2026-07-16.html' target='_blank'>昨天，脑机接口第一次被写进了处方</a> - 
-* <a href='https://www.cocosdarkwood.com/2026/07/16/70人的开发团队裁掉62人，理由就一句话："Claude Fable 5 够了".html' target='_blank'>70人的开发团队裁掉62人，理由就一句话："Claude Fable 5 够了"</a> - 
-* <a href='https://www.cocosdarkwood.com/2026/07/15/每日灵感报告-2026-07-15.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-15</a> - Wed, 15 Jul 2026 13:30:00 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/15/hotspot-2026-07-15.html' target='_blank'>昨天，一家115岁的公司，死在了自己发明的未来里</a> - Wed, 15 Jul 2026 08:00:00 +0000
 <!-- blog ends -->
 
 ---
