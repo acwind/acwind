@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://www.cocosdarkwood.com/2026/07/17/鳄梨出轨、香蕉复仇、海马怀孕：3.6亿人疯看的AI短剧，到底是谁的脑子坏了.html' target='_blank'>鳄梨出轨、香蕉复仇、海马怀孕：3.6亿人疯看的AI短剧，到底是谁的脑子坏了？</a> - Fri, 17 Jul 2026 07:11:54 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/16/每日灵感报告-2026-07-16.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-16</a> - 
-* <a href='https://www.cocosdarkwood.com/2026/07/16/今晚，全球第一场人形机器人格斗赛将在深圳开打：冠军腰带值1000万.html' target='_blank'>今晚，全球第一场人形机器人格斗赛将在深圳开打：冠军腰带值1000万</a> - 
-* <a href='https://www.cocosdarkwood.com/2026/07/16/hotspot-2026-07-16-2.html' target='_blank'>AI 替老板开了人，然后法律反手把公司告了</a> - 
-* <a href='https://www.cocosdarkwood.com/2026/07/16/hotspot-2026-07-16.html' target='_blank'>昨天，脑机接口第一次被写进了处方</a> - 
+* <a href='https://www.cocosdarkwood.com/2026/07/18/hotspot-2026-07-18-3.html' target='_blank'>2026年最离谱的内卷：你的手持小风扇，已经进化成一条瑜伽裤了</a> - Sat, 18 Jul 2026 08:00:00 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/18/hotspot-2026-07-18-2.html' target='_blank'>2026年最火的职场建议，只有三个字：带瓶奶</a> - Sat, 18 Jul 2026 08:00:00 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/18/hotspot-2026-07-18.html' target='_blank'>WAIC最赚钱的公司，名字你一个也没听过</a> - Sat, 18 Jul 2026 08:00:00 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/18/"慢生活"正在变成一种新潮流：为什么2026年最酷的事，是故意放慢脚步？.html' target='_blank'>"慢生活"正在变成一种新潮流：为什么2026年最酷的事，是故意放慢脚步？</a> - Sat, 18 Jul 2026 07:19:16 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/18/人类第一次：48光年外，一颗"超级地球"正在泄露它的秘密.html' target='_blank'>人类第一次：48光年外，一颗"超级地球"正在泄露它的秘密</a> - Sat, 18 Jul 2026 07:05:00 +0000
 <!-- blog ends -->
 
 ---
