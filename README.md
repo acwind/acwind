@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://www.cocosdarkwood.com/2026/07/19/hotspot-2026-07-19.html' target='_blank'>你让AI写的每一行代码，都在帮黑客「占坑」</a> - Sun, 19 Jul 2026 08:00:00 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/19/ChatGPT 想住进你家，却先把屏幕扔了：下一代 AI 硬件到底在赌什么？.html' target='_blank'>ChatGPT 想住进你家，却先把屏幕扔了：下一代 AI 硬件到底在赌什么？</a> - Sun, 19 Jul 2026 07:01:53 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/18/当 AI 开始替你下单、谈判、发邮件：它总得先有个“身份证”.html' target='_blank'>当 AI 开始替你下单、谈判、发邮件：它总得先有个“身份证”</a> - Sat, 18 Jul 2026 20:28:26 +0000
+* <a href='https://www.cocosdarkwood.com/2026/07/18/每日灵感报告-2026-07-18.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-18</a> - Sat, 18 Jul 2026 13:30:00 +0000
 * <a href='https://www.cocosdarkwood.com/2026/07/18/hotspot-2026-07-18-3.html' target='_blank'>2026年最离谱的内卷：你的手持小风扇，已经进化成一条瑜伽裤了</a> - Sat, 18 Jul 2026 08:00:00 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/18/hotspot-2026-07-18-2.html' target='_blank'>2026年最火的职场建议，只有三个字：带瓶奶</a> - Sat, 18 Jul 2026 08:00:00 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/18/hotspot-2026-07-18.html' target='_blank'>WAIC最赚钱的公司，名字你一个也没听过</a> - Sat, 18 Jul 2026 08:00:00 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/18/"慢生活"正在变成一种新潮流：为什么2026年最酷的事，是故意放慢脚步？.html' target='_blank'>"慢生活"正在变成一种新潮流：为什么2026年最酷的事，是故意放慢脚步？</a> - Sat, 18 Jul 2026 07:19:16 +0000
-* <a href='https://www.cocosdarkwood.com/2026/07/18/人类第一次：48光年外，一颗"超级地球"正在泄露它的秘密.html' target='_blank'>人类第一次：48光年外，一颗"超级地球"正在泄露它的秘密</a> - Sat, 18 Jul 2026 07:05:00 +0000
 <!-- blog ends -->
 
 ---
