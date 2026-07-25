@@ -123,7 +123,7 @@ def fetch_douban():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://acwind.github.io/feed.xml")["entries"]
+    entries = feedparser.parse("https://blog.animesdata.com/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
