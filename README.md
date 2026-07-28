@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/515.html' target='_blank'>2.8万亿参数，开源。就在今天，硅谷最怕的事发生了</a> - Mon, 27 Jul 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/516.html' target='_blank'>一个不到 10M 的 AI 声音，为什么能直接在浏览器里开口？Inflect v2 本地 TTS 实战</a> - Mon, 27 Jul 2026 07:03:57 +0000
-* <a href='https://blog.animesdata.com/articles/517.html' target='_blank'>别再死背参数了：有人把 PostgreSQL 建成一座能走路逛的 3D 城</a> - Mon, 27 Jul 2026 02:02:09 +0000
-* <a href='https://blog.animesdata.com/articles/514.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-26</a> - Sun, 26 Jul 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/512.html' target='_blank'>一部20年前的电影，为什么要在2026年大声说：别让AI碰我？</a> - Sun, 26 Jul 2026 09:02:53 +0000
+* <a href='https://blog.animesdata.com/articles/523.html' target='_blank'>老师在试卷里藏了一个看不见的词：32份 AI 答案一起“自首”了</a> - 
+* <a href='https://blog.animesdata.com/articles/522.html' target='_blank'>"不用，已经搞定了"——英伟达20年的CUDA护城河，一个周末就裂了</a> - 
+* <a href='https://blog.animesdata.com/articles/520.html' target='_blank'>"离开携程活不了，用上携程活不好"——昨天，51.79亿砸向了这句话</a> - 
+* <a href='https://blog.animesdata.com/articles/521.html' target='_blank'>手机没信号也能聊天？这个 GitHub 热门项目把身边的手机变成了“临时互联网”</a> - 
+* <a href='https://blog.animesdata.com/articles/524.html' target='_blank'>2.8 万亿参数白送了，开源圈却在笑：有卡的请举手</a> - 
 <!-- blog ends -->
 
 ---
