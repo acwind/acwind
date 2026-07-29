@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/523.html' target='_blank'>老师在试卷里藏了一个看不见的词：32份 AI 答案一起“自首”了</a> - 
-* <a href='https://blog.animesdata.com/articles/522.html' target='_blank'>"不用，已经搞定了"——英伟达20年的CUDA护城河，一个周末就裂了</a> - 
-* <a href='https://blog.animesdata.com/articles/520.html' target='_blank'>"离开携程活不了，用上携程活不好"——昨天，51.79亿砸向了这句话</a> - 
-* <a href='https://blog.animesdata.com/articles/521.html' target='_blank'>手机没信号也能聊天？这个 GitHub 热门项目把身边的手机变成了“临时互联网”</a> - 
-* <a href='https://blog.animesdata.com/articles/524.html' target='_blank'>2.8 万亿参数白送了，开源圈却在笑：有卡的请举手</a> - 
+* <a href='https://blog.animesdata.com/articles/529.html' target='_blank'>你以为只是发给朋友：一次 AI 分享，把聊天送进了 Google</a> - Wed, 29 Jul 2026 09:05:18 +0000
+* <a href='https://blog.animesdata.com/articles/528.html' target='_blank'>一个记者写了二十年的稿子，被 AI 白嫖了个干净。印度法院说：合理。</a> - Wed, 29 Jul 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/526.html' target='_blank'>你有没有发现，朋友圈里的旅游照，正在悄悄消失</a> - Wed, 29 Jul 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/527.html' target='_blank'>没有屏幕，却可能比手机更像“人”：OpenAI 的移动音箱到底在做什么？</a> - Wed, 29 Jul 2026 07:05:37 +0000
+* <a href='https://blog.animesdata.com/articles/530.html' target='_blank'>三段废话提示词，硬生生搓出了 5.5 万行「使命召唤」</a> - Wed, 29 Jul 2026 02:03:45 +0000
 <!-- blog ends -->
 
 ---
