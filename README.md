@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/529.html' target='_blank'>你以为只是发给朋友：一次 AI 分享，把聊天送进了 Google</a> - Wed, 29 Jul 2026 09:05:18 +0000
-* <a href='https://blog.animesdata.com/articles/528.html' target='_blank'>一个记者写了二十年的稿子，被 AI 白嫖了个干净。印度法院说：合理。</a> - Wed, 29 Jul 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/526.html' target='_blank'>你有没有发现，朋友圈里的旅游照，正在悄悄消失</a> - Wed, 29 Jul 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/527.html' target='_blank'>没有屏幕，却可能比手机更像“人”：OpenAI 的移动音箱到底在做什么？</a> - Wed, 29 Jul 2026 07:05:37 +0000
-* <a href='https://blog.animesdata.com/articles/530.html' target='_blank'>三段废话提示词，硬生生搓出了 5.5 万行「使命召唤」</a> - Wed, 29 Jul 2026 02:03:45 +0000
+* <a href='https://blog.animesdata.com/articles/535.html' target='_blank'>房子还没盖，他已经在里面住过了：Vision Pro把买房变成了一场“提前试住”</a> - 
+* <a href='https://blog.animesdata.com/articles/533.html' target='_blank'>欧洲热到41度，救命的竟是义乌一顶带风扇的"丑帽子"</a> - 
+* <a href='https://blog.animesdata.com/articles/534.html' target='_blank'>今天开始，GitHub 上的 AI 可能突然失声：一份不慌不忙的迁移教程</a> - 
+* <a href='https://blog.animesdata.com/articles/532.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-29</a> - Wed, 29 Jul 2026 13:30:00 +0000
+* <a href='https://blog.animesdata.com/articles/531.html' target='_blank'>被人瞧不起，其实是一种隐形优势</a> - Wed, 29 Jul 2026 11:41:13 +0000
 <!-- blog ends -->
 
 ---
