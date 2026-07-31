@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/535.html' target='_blank'>房子还没盖，他已经在里面住过了：Vision Pro把买房变成了一场“提前试住”</a> - 
-* <a href='https://blog.animesdata.com/articles/533.html' target='_blank'>欧洲热到41度，救命的竟是义乌一顶带风扇的"丑帽子"</a> - 
-* <a href='https://blog.animesdata.com/articles/534.html' target='_blank'>今天开始，GitHub 上的 AI 可能突然失声：一份不慌不忙的迁移教程</a> - 
-* <a href='https://blog.animesdata.com/articles/532.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-29</a> - Wed, 29 Jul 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/531.html' target='_blank'>被人瞧不起，其实是一种隐形优势</a> - Wed, 29 Jul 2026 11:41:13 +0000
+* <a href='https://blog.animesdata.com/articles/540.html' target='_blank'>让 AI 写个小程序，亚马逊花掉 180 万美元：最贵的不是模型，是那张排行榜</a> - Fri, 31 Jul 2026 09:03:55 +0000
+* <a href='https://blog.animesdata.com/articles/538.html' target='_blank'>你以为在跟真人聊车，其实整条评论区都是同一套模板</a> - Fri, 31 Jul 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/539.html' target='_blank'>今天 GitHub 热榜上，最像科幻的项目：给自己装一个会说话、会打游戏的 AI 伙伴</a> - Fri, 31 Jul 2026 07:04:26 +0000
+* <a href='https://blog.animesdata.com/articles/541.html' target='_blank'>给 AI 一台 Mac 和 350 美元，它花了 24 小时学会刷量和砸价格</a> - Fri, 31 Jul 2026 02:04:02 +0000
+* <a href='https://blog.animesdata.com/articles/537.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-30</a> - 
 <!-- blog ends -->
 
 ---
