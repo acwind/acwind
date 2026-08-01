@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/540.html' target='_blank'>让 AI 写个小程序，亚马逊花掉 180 万美元：最贵的不是模型，是那张排行榜</a> - Fri, 31 Jul 2026 09:03:55 +0000
-* <a href='https://blog.animesdata.com/articles/538.html' target='_blank'>你以为在跟真人聊车，其实整条评论区都是同一套模板</a> - Fri, 31 Jul 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/539.html' target='_blank'>今天 GitHub 热榜上，最像科幻的项目：给自己装一个会说话、会打游戏的 AI 伙伴</a> - Fri, 31 Jul 2026 07:04:26 +0000
-* <a href='https://blog.animesdata.com/articles/541.html' target='_blank'>给 AI 一台 Mac 和 350 美元，它花了 24 小时学会刷量和砸价格</a> - Fri, 31 Jul 2026 02:04:02 +0000
-* <a href='https://blog.animesdata.com/articles/537.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-30</a> - 
+* <a href='https://blog.animesdata.com/articles/545.html' target='_blank'>AI 开始抢救旧书：它们要的不是阅读，而是还没被自己污染的人类</a> - Sat, 01 Aug 2026 09:04:59 +0000
+* <a href='https://blog.animesdata.com/articles/543.html' target='_blank'>全网都在问"这是AI吗"——可万一，它是真的呢</a> - Sat, 01 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/544.html' target='_blank'>不用显卡，今天也能挖矿：Brisvia 这条新链到底在玩什么？</a> - Sat, 01 Aug 2026 07:04:37 +0000
+* <a href='https://blog.animesdata.com/articles/546.html' target='_blank'>三千行 PR 没人敢点开？GitHub 把「叠罗汉」做成官方功能了</a> - Sat, 01 Aug 2026 02:04:09 +0000
+* <a href='https://blog.animesdata.com/articles/542.html' target='_blank'>每日 App 开发灵感报告 - 2026-07-31</a> - Fri, 31 Jul 2026 13:30:00 +0000
 <!-- blog ends -->
 
 ---
