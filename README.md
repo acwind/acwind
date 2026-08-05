@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/561.html' target='_blank'>给人物换肤色，为什么要先造一颗“球”？</a> - Wed, 05 Aug 2026 09:04:12 +0000
+* <a href='https://blog.animesdata.com/articles/560.html' target='_blank'>全网追问"你到底有什么放不下"，其实他只是在洗澡</a> - Wed, 05 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/562.html' target='_blank'>装个 npm 包，Cursor 凭证也被顺走了</a> - Wed, 05 Aug 2026 02:04:41 +0000
+* <a href='https://blog.animesdata.com/articles/559.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-04</a> - 
 * <a href='https://blog.animesdata.com/articles/557.html' target='_blank'>谷歌把AI塞进了地球仪，48小时后又连夜拆了</a> - 
-* <a href='https://blog.animesdata.com/articles/558.html' target='_blank'>人休假了16天，AI自己交了265个commit</a> - 
-* <a href='https://blog.animesdata.com/articles/556.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-03</a> - Mon, 03 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/554.html' target='_blank'>土拨鼠上了 OnlyFans：它们不拍“成人内容”，却在给一项62年的研究续命</a> - Mon, 03 Aug 2026 09:04:23 +0000
-* <a href='https://blog.animesdata.com/articles/553.html' target='_blank'>一个几块钱的竹知了，把华为法务惹急了，然后它卖爆了</a> - Mon, 03 Aug 2026 08:00:00 +0000
 <!-- blog ends -->
 
 ---
