@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/565.html' target='_blank'>一台打印机每天给你一张“今日限定”：AI把刷手机改成了等小票</a> - 
+* <a href='https://blog.animesdata.com/articles/564.html' target='_blank'>一个能接管你 Mac 的漏洞，卡在了苹果门外——因为名额满了</a> - 
+* <a href='https://blog.animesdata.com/articles/566.html' target='_blank'>别再给 AI 开整台虚拟机了：它其实只需要一台「电脑」</a> - 
+* <a href='https://blog.animesdata.com/articles/563.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-05</a> - Wed, 05 Aug 2026 13:30:00 +0000
 * <a href='https://blog.animesdata.com/articles/561.html' target='_blank'>给人物换肤色，为什么要先造一颗“球”？</a> - Wed, 05 Aug 2026 09:04:12 +0000
-* <a href='https://blog.animesdata.com/articles/560.html' target='_blank'>全网追问"你到底有什么放不下"，其实他只是在洗澡</a> - Wed, 05 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/562.html' target='_blank'>装个 npm 包，Cursor 凭证也被顺走了</a> - Wed, 05 Aug 2026 02:04:41 +0000
-* <a href='https://blog.animesdata.com/articles/559.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-04</a> - 
-* <a href='https://blog.animesdata.com/articles/557.html' target='_blank'>谷歌把AI塞进了地球仪，48小时后又连夜拆了</a> - 
 <!-- blog ends -->
 
 ---
