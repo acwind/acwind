@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/565.html' target='_blank'>一台打印机每天给你一张“今日限定”：AI把刷手机改成了等小票</a> - 
-* <a href='https://blog.animesdata.com/articles/564.html' target='_blank'>一个能接管你 Mac 的漏洞，卡在了苹果门外——因为名额满了</a> - 
-* <a href='https://blog.animesdata.com/articles/566.html' target='_blank'>别再给 AI 开整台虚拟机了：它其实只需要一台「电脑」</a> - 
-* <a href='https://blog.animesdata.com/articles/563.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-05</a> - Wed, 05 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/561.html' target='_blank'>给人物换肤色，为什么要先造一颗“球”？</a> - Wed, 05 Aug 2026 09:04:12 +0000
+* <a href='https://blog.animesdata.com/articles/573.html' target='_blank'>交友软件终于不让你滑了：AI替你挑人，周三晚上七点直接见面</a> - Fri, 07 Aug 2026 09:07:01 +0000
+* <a href='https://blog.animesdata.com/articles/571.html' target='_blank'>一张1959年的糖纸，昨天在海外刷了400万次屏</a> - Fri, 07 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/572.html' target='_blank'>AI 终于有“电脑”了：Cloudflare 热榜项目，给 Agent 装一间不会丢文件的工作室</a> - Fri, 07 Aug 2026 07:04:13 +0000
+* <a href='https://blog.animesdata.com/articles/574.html' target='_blank'>给AI四个碱基开头，它补完了能杀细菌的完整病毒</a> - Fri, 07 Aug 2026 02:05:09 +0000
+* <a href='https://blog.animesdata.com/articles/570.html' target='_blank'>Claude 终于会“看视频”了：一条链接，变成能追问的知识库</a> - 
 <!-- blog ends -->
 
 ---
