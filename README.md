@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/578.html' target='_blank'>AI不需要标签页：Cloudflare造了一款只给机器人用的浏览器</a> - Sat, 08 Aug 2026 09:04:07 +0000
+* <a href='https://blog.animesdata.com/articles/576.html' target='_blank'>花50万买的车，开出国门第一天，被厂家一键"远程关了禁闭"</a> - Sat, 08 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/577.html' target='_blank'>这个 Android 文件查看器，居然一个权限都不申请：它是怎么做到的？</a> - Sat, 08 Aug 2026 07:04:51 +0000
+* <a href='https://blog.animesdata.com/articles/575.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-07</a> - Fri, 07 Aug 2026 13:30:00 +0000
 * <a href='https://blog.animesdata.com/articles/573.html' target='_blank'>交友软件终于不让你滑了：AI替你挑人，周三晚上七点直接见面</a> - Fri, 07 Aug 2026 09:07:01 +0000
-* <a href='https://blog.animesdata.com/articles/571.html' target='_blank'>一张1959年的糖纸，昨天在海外刷了400万次屏</a> - Fri, 07 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/572.html' target='_blank'>AI 终于有“电脑”了：Cloudflare 热榜项目，给 Agent 装一间不会丢文件的工作室</a> - Fri, 07 Aug 2026 07:04:13 +0000
-* <a href='https://blog.animesdata.com/articles/574.html' target='_blank'>给AI四个碱基开头，它补完了能杀细菌的完整病毒</a> - Fri, 07 Aug 2026 02:05:09 +0000
-* <a href='https://blog.animesdata.com/articles/570.html' target='_blank'>Claude 终于会“看视频”了：一条链接，变成能追问的知识库</a> - 
 <!-- blog ends -->
 
 ---
