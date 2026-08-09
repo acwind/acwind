@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/578.html' target='_blank'>AI不需要标签页：Cloudflare造了一款只给机器人用的浏览器</a> - Sat, 08 Aug 2026 09:04:07 +0000
-* <a href='https://blog.animesdata.com/articles/576.html' target='_blank'>花50万买的车，开出国门第一天，被厂家一键"远程关了禁闭"</a> - Sat, 08 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/577.html' target='_blank'>这个 Android 文件查看器，居然一个权限都不申请：它是怎么做到的？</a> - Sat, 08 Aug 2026 07:04:51 +0000
-* <a href='https://blog.animesdata.com/articles/575.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-07</a> - Fri, 07 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/573.html' target='_blank'>交友软件终于不让你滑了：AI替你挑人，周三晚上七点直接见面</a> - Fri, 07 Aug 2026 09:07:01 +0000
+* <a href='https://blog.animesdata.com/articles/585.html' target='_blank'>仓鼠每晚跑10公里，还在 Strava 上打卡：人类终于被一只小动物卷到了</a> - Sun, 09 Aug 2026 09:04:26 +0000
+* <a href='https://blog.animesdata.com/articles/584.html' target='_blank'>一只仓鼠跑上了 Strava：当“自律神话”终于有了最诚实的主角</a> - Sun, 09 Aug 2026 08:28:37 +0000
+* <a href='https://blog.animesdata.com/articles/583.html' target='_blank'>一篇作业，为什么还得当面解释？丹麦把“口头答辩”带回了高中</a> - Sun, 09 Aug 2026 08:18:55 +0000
+* <a href='https://blog.animesdata.com/articles/581.html' target='_blank'>今天，半个科技圈都在"养龙虾"——而这只虾，不会下锅</a> - Sun, 09 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/582.html' target='_blank'>3天后日全食，但真正离谱的是这张地图：点一下就知道你该去哪儿</a> - Sun, 09 Aug 2026 07:05:10 +0000
 <!-- blog ends -->
 
 ---
