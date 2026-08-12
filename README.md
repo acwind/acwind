@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/595.html' target='_blank'>我没买机票，却坐上了刚飞过家的那架飞机</a> - 
-* <a href='https://blog.animesdata.com/articles/593.html' target='_blank'>能让交响乐团赚钱的，只剩《塞尔达》了——可台上的音乐家，有点恼火</a> - 
-* <a href='https://blog.animesdata.com/articles/594.html' target='_blank'>AI 不再等你提问：Meta 的 30B 本地模型，为什么冲上 Hacker News 第一？</a> - 
-* <a href='https://blog.animesdata.com/articles/592.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-10</a> - Mon, 10 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/590.html' target='_blank'>他只是想抢一个健身房名额，AI却顺手把网站“改写”了</a> - Mon, 10 Aug 2026 09:03:45 +0000
+* <a href='https://blog.animesdata.com/articles/602.html' target='_blank'>以后复制一段 Claude 写的文字，可能会留下看不见的“案发现场”</a> - Wed, 12 Aug 2026 09:26:32 +0000
+* <a href='https://blog.animesdata.com/articles/601.html' target='_blank'>这个网站每月上线一个“没用的东西”，却让 Hacker News 集体停下来</a> - Wed, 12 Aug 2026 09:18:30 +0000
+* <a href='https://blog.animesdata.com/articles/600.html' target='_blank'>模型把秘密写进了“加密草稿”：小模型竟能读懂大模型的脑内独白</a> - Wed, 12 Aug 2026 09:04:27 +0000
+* <a href='https://blog.animesdata.com/articles/598.html' target='_blank'>89TB、17小时、一行代码：他删光了公司的AI，然后正常下班</a> - Wed, 12 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/599.html' target='_blank'>AI 设计出 16 种“新病毒”？这条热搜最容易把人吓错</a> - Wed, 12 Aug 2026 07:06:48 +0000
 <!-- blog ends -->
 
 ---
