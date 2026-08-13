@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/607.html' target='_blank'>AI 开始替你写“职场人话”：这个 CringeBot 为什么让 Hacker News 笑不出来</a> - 
+* <a href='https://blog.animesdata.com/articles/605.html' target='_blank'>"吹气球谁不会？"——然后这个37岁的湖北男人，靠它半个月赚了60万</a> - 
+* <a href='https://blog.animesdata.com/articles/606.html' target='_blank'>沙丁鱼突然成了网红：为什么连超市货架都被“吃”空了？</a> - 
+* <a href='https://blog.animesdata.com/articles/604.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-12</a> - Wed, 12 Aug 2026 13:30:00 +0000
 * <a href='https://blog.animesdata.com/articles/602.html' target='_blank'>以后复制一段 Claude 写的文字，可能会留下看不见的“案发现场”</a> - Wed, 12 Aug 2026 09:26:32 +0000
-* <a href='https://blog.animesdata.com/articles/601.html' target='_blank'>这个网站每月上线一个“没用的东西”，却让 Hacker News 集体停下来</a> - Wed, 12 Aug 2026 09:18:30 +0000
-* <a href='https://blog.animesdata.com/articles/600.html' target='_blank'>模型把秘密写进了“加密草稿”：小模型竟能读懂大模型的脑内独白</a> - Wed, 12 Aug 2026 09:04:27 +0000
-* <a href='https://blog.animesdata.com/articles/598.html' target='_blank'>89TB、17小时、一行代码：他删光了公司的AI，然后正常下班</a> - Wed, 12 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/599.html' target='_blank'>AI 设计出 16 种“新病毒”？这条热搜最容易把人吓错</a> - Wed, 12 Aug 2026 07:06:48 +0000
 <!-- blog ends -->
 
 ---
