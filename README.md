@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/615.html' target='_blank'>高露洁"劲白"、简爱"其他没了"、白象"多半袋"：你以为在挑商品，其实在念商标</a> - Sat, 15 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/616.html' target='_blank'>AI 终于要学会“听人说完”：一个开源语音项目为何突然冲上热榜？</a> - Sat, 15 Aug 2026 07:02:43 +0000
-* <a href='https://blog.animesdata.com/articles/614.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-14</a> - Fri, 14 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/612.html' target='_blank'>一半链接已经死了：657607 个网址，替我们找回了旧互联网</a> - Fri, 14 Aug 2026 09:05:52 +0000
-* <a href='https://blog.animesdata.com/articles/610.html' target='_blank'>点外卖最怕"查无此店"。浙江派了个AI，白天盯人，夜里抓老鼠</a> - Fri, 14 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/597.html' target='_blank'>10万人排队提问，1万人抢着回答——这个"AI"里，一个AI都没有</a> - Sun, 16 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/595.html' target='_blank'>一个00后孙女，用AI把74岁的奶奶，P进了《西游记》</a> - Sun, 16 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/596.html' target='_blank'>画个形状就能打鼓：这个没什么用的网页，为什么在 Hacker News 爆了？</a> - Sun, 16 Aug 2026 07:04:52 +0000
+* <a href='https://blog.animesdata.com/articles/594.html' target='_blank'>《奥德赛》里一句台词继续变成万能反应梗</a> - Sat, 15 Aug 2026 14:04:41 +0000
+* <a href='https://blog.animesdata.com/articles/593.html' target='_blank'>一个外国人为了学中文，先做了自己的 HSK 学习网站</a> - Sat, 15 Aug 2026 13:56:42 +0000
 <!-- blog ends -->
 
 ---
