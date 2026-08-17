@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/597.html' target='_blank'>10万人排队提问，1万人抢着回答——这个"AI"里，一个AI都没有</a> - Sun, 16 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/595.html' target='_blank'>一个00后孙女，用AI把74岁的奶奶，P进了《西游记》</a> - Sun, 16 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/596.html' target='_blank'>画个形状就能打鼓：这个没什么用的网页，为什么在 Hacker News 爆了？</a> - Sun, 16 Aug 2026 07:04:52 +0000
-* <a href='https://blog.animesdata.com/articles/594.html' target='_blank'>《奥德赛》里一句台词继续变成万能反应梗</a> - Sat, 15 Aug 2026 14:04:41 +0000
-* <a href='https://blog.animesdata.com/articles/593.html' target='_blank'>一个外国人为了学中文，先做了自己的 HSK 学习网站</a> - Sat, 15 Aug 2026 13:56:42 +0000
+* <a href='https://blog.animesdata.com/articles/603.html' target='_blank'>9天只卖了7169块，这部"烂到灵魂"的动画，却被加场到了800场</a> - Mon, 17 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/605.html' target='_blank'>这款二战潜艇游戏，故意不让你爽：每一发鱼雷都是几何题</a> - Mon, 17 Aug 2026 07:42:07 +0000
+* <a href='https://blog.animesdata.com/articles/604.html' target='_blank'>一块 3.7 公斤的“外挂电机”，为什么让 Hacker News 吵了 421 条？</a> - Mon, 17 Aug 2026 07:02:38 +0000
+* <a href='https://blog.animesdata.com/articles/602.html' target='_blank'>让 AI 只读到小学五年级，能力边界反而更清楚？</a> - Sun, 16 Aug 2026 23:02:53 +0000
+* <a href='https://blog.animesdata.com/articles/601.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-16</a> - Sun, 16 Aug 2026 13:30:00 +0000
 <!-- blog ends -->
 
 ---
