@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/603.html' target='_blank'>9天只卖了7169块，这部"烂到灵魂"的动画，却被加场到了800场</a> - Mon, 17 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/605.html' target='_blank'>这款二战潜艇游戏，故意不让你爽：每一发鱼雷都是几何题</a> - Mon, 17 Aug 2026 07:42:07 +0000
-* <a href='https://blog.animesdata.com/articles/604.html' target='_blank'>一块 3.7 公斤的“外挂电机”，为什么让 Hacker News 吵了 421 条？</a> - Mon, 17 Aug 2026 07:02:38 +0000
-* <a href='https://blog.animesdata.com/articles/602.html' target='_blank'>让 AI 只读到小学五年级，能力边界反而更清楚？</a> - Sun, 16 Aug 2026 23:02:53 +0000
-* <a href='https://blog.animesdata.com/articles/601.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-16</a> - Sun, 16 Aug 2026 13:30:00 +0000
+* <a href='https://blog.animesdata.com/articles/611.html' target='_blank'>凌晨2点，有人给"所长"送来一台大冰箱。然后，全网都替他慌了</a> - 
+* <a href='https://blog.animesdata.com/articles/610.html' target='_blank'>一个雨果奖作家的坦白：新书一半靠AI，编辑读哭了都没发现</a> - 
+* <a href='https://blog.animesdata.com/articles/609.html' target='_blank'>你以为截了张图，其实 Bluesky 顺手给自己打了个广告</a> - 
+* <a href='https://blog.animesdata.com/articles/608.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-17</a> - Mon, 17 Aug 2026 13:30:00 +0000
+* <a href='https://blog.animesdata.com/articles/606.html' target='_blank'>所有人都在和同一个 AI 说话：它会记住你，也可能记住全网的胡说八道</a> - Mon, 17 Aug 2026 09:05:38 +0000
 <!-- blog ends -->
 
 ---
