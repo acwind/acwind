@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/616.html' target='_blank'>你在AI上烧的Token，银行认了：最高能贷3000万</a> - Wed, 19 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/617.html' target='_blank'>把一块纯色做成博物馆：为什么网友又想起了旧电脑的桌面</a> - Wed, 19 Aug 2026 07:04:59 +0000
-* <a href='https://blog.animesdata.com/articles/615.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-18</a> - 
-* <a href='https://blog.animesdata.com/articles/613.html' target='_blank'>你以为截的是原图：Bluesky把一个按钮，藏成了截图里的蝴蝶</a> - 
-* <a href='https://blog.animesdata.com/articles/611.html' target='_blank'>凌晨2点，有人给"所长"送来一台大冰箱。然后，全网都替他慌了</a> - 
+* <a href='https://blog.animesdata.com/articles/622.html' target='_blank'>有人一年花16万，“男朋友”从头到尾都不存在</a> - 
+* <a href='https://blog.animesdata.com/articles/624.html' target='_blank'>卡西欧给老式电子表加了蓝牙：人们为什么想要一块“不太智能”的手表？</a> - 
+* <a href='https://blog.animesdata.com/articles/623.html' target='_blank'>一群人追踪气象气球，怎么把自己追进了战争边缘？</a> - 
+* <a href='https://blog.animesdata.com/articles/621.html' target='_blank'>ChatGPT 报警了：一名男子把杀人计划写进聊天框后被捕</a> - Wed, 19 Aug 2026 18:19:21 +0000
+* <a href='https://blog.animesdata.com/articles/620.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-19</a> - Wed, 19 Aug 2026 13:30:00 +0000
 <!-- blog ends -->
 
 ---
