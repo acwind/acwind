@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/628.html' target='_blank'>昨晚刷屏的"钟馗",干了一件比游戏更牛的事</a> - Fri, 21 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/630.html' target='_blank'>你没听见声音，但耳机知道网页在“放歌”：AliExpress 这次为什么引发争论？</a> - Fri, 21 Aug 2026 07:06:50 +0000
+* <a href='https://blog.animesdata.com/articles/629.html' target='_blank'>你弹 8 个音，AI 在 iPhone 上把旋律接下去：这个钢琴项目为何冲上热榜？</a> - Fri, 21 Aug 2026 06:44:39 +0000
+* <a href='https://blog.animesdata.com/articles/627.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-20</a> - 
 * <a href='https://blog.animesdata.com/articles/622.html' target='_blank'>有人一年花16万，“男朋友”从头到尾都不存在</a> - 
-* <a href='https://blog.animesdata.com/articles/624.html' target='_blank'>卡西欧给老式电子表加了蓝牙：人们为什么想要一块“不太智能”的手表？</a> - 
-* <a href='https://blog.animesdata.com/articles/623.html' target='_blank'>一群人追踪气象气球，怎么把自己追进了战争边缘？</a> - 
-* <a href='https://blog.animesdata.com/articles/621.html' target='_blank'>ChatGPT 报警了：一名男子把杀人计划写进聊天框后被捕</a> - Wed, 19 Aug 2026 18:19:21 +0000
-* <a href='https://blog.animesdata.com/articles/620.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-19</a> - Wed, 19 Aug 2026 13:30:00 +0000
 <!-- blog ends -->
 
 ---
