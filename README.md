@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/643.html' target='_blank'>一个靠 2MB AOL 空间活下来的工程网站，为什么今天又火了？</a> - Sun, 23 Aug 2026 08:58:28 +0000
+* <a href='https://blog.animesdata.com/articles/639.html' target='_blank'>电子书阅读器终于能装 App 了，可它最宝贵的优点会不会也没了？</a> - Sat, 22 Aug 2026 16:34:38 +0000
+* <a href='https://blog.animesdata.com/articles/638.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-22</a> - Sat, 22 Aug 2026 13:30:00 +0000
+* <a href='https://blog.animesdata.com/articles/636.html' target='_blank'>你只弹四个音，AI 就接着写：钢琴也有自己的 Copilot 了</a> - Sat, 22 Aug 2026 09:04:54 +0000
 * <a href='https://blog.animesdata.com/articles/635.html' target='_blank'>你那辆听不懂中国话的特斯拉，终于被国产大模型"治"好了</a> - Sat, 22 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/634.html' target='_blank'>眼睛、手与 AI：写给女儿的一封信</a> - Fri, 21 Aug 2026 21:30:56 +0000
-* <a href='https://blog.animesdata.com/articles/633.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-21</a> - Fri, 21 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/631.html' target='_blank'>一个网页只说一句话，却让 Hacker News 吵了 538 条：别把 AI 当成你的嘴</a> - Fri, 21 Aug 2026 09:05:02 +0000
-* <a href='https://blog.animesdata.com/articles/628.html' target='_blank'>昨晚刷屏的"钟馗",干了一件比游戏更牛的事</a> - Fri, 21 Aug 2026 08:00:00 +0000
 <!-- blog ends -->
 
 ---
