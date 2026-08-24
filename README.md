@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/643.html' target='_blank'>一个靠 2MB AOL 空间活下来的工程网站，为什么今天又火了？</a> - Sun, 23 Aug 2026 08:58:28 +0000
-* <a href='https://blog.animesdata.com/articles/639.html' target='_blank'>电子书阅读器终于能装 App 了，可它最宝贵的优点会不会也没了？</a> - Sat, 22 Aug 2026 16:34:38 +0000
-* <a href='https://blog.animesdata.com/articles/638.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-22</a> - Sat, 22 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/636.html' target='_blank'>你只弹四个音，AI 就接着写：钢琴也有自己的 Copilot 了</a> - Sat, 22 Aug 2026 09:04:54 +0000
-* <a href='https://blog.animesdata.com/articles/635.html' target='_blank'>你那辆听不懂中国话的特斯拉，终于被国产大模型"治"好了</a> - Sat, 22 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/649.html' target='_blank'>一本旧书被塞进 1000 册订单后，最后去了哪里？答案让整个互联网不舒服</a> - Mon, 24 Aug 2026 09:02:18 +0000
+* <a href='https://blog.animesdata.com/articles/648.html' target='_blank'>谁会去电影院看乒乓球？56家影院，3分钟给出了答案</a> - Mon, 24 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/647.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-23</a> - Sun, 23 Aug 2026 13:30:00 +0000
+* <a href='https://blog.animesdata.com/articles/646.html' target='_blank'>不买大牌、不瘦下来也很“时髦”：这个夏天，年轻人把平静叫作 Kinda Chic</a> - Sun, 23 Aug 2026 12:30:07 +0000
+* <a href='https://blog.animesdata.com/articles/644.html' target='_blank'>AI 额度也有黄牛了：你省下的 80%，可能先把提示词交给了陌生人</a> - Sun, 23 Aug 2026 09:08:04 +0000
 <!-- blog ends -->
 
 ---
