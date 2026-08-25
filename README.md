@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/653.html' target='_blank'>关掉手机也没用。一台普通路由器，正以近100%的准确率"认出"你</a> - 
+* <a href='https://blog.animesdata.com/articles/654.html' target='_blank'>Wi‑Fi 8 不再只卷网速：下一代无线，先学会别在你走动时掉线</a> - 
+* <a href='https://blog.animesdata.com/articles/652.html' target='_blank'>一个普通人让 AI 拆了家里五个外设：原来“拥有”还不等于真正拥有？</a> - 
+* <a href='https://blog.animesdata.com/articles/651.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-24</a> - Mon, 24 Aug 2026 13:30:00 +0000
 * <a href='https://blog.animesdata.com/articles/649.html' target='_blank'>一本旧书被塞进 1000 册订单后，最后去了哪里？答案让整个互联网不舒服</a> - Mon, 24 Aug 2026 09:02:18 +0000
-* <a href='https://blog.animesdata.com/articles/648.html' target='_blank'>谁会去电影院看乒乓球？56家影院，3分钟给出了答案</a> - Mon, 24 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/647.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-23</a> - Sun, 23 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/646.html' target='_blank'>不买大牌、不瘦下来也很“时髦”：这个夏天，年轻人把平静叫作 Kinda Chic</a> - Sun, 23 Aug 2026 12:30:07 +0000
-* <a href='https://blog.animesdata.com/articles/644.html' target='_blank'>AI 额度也有黄牛了：你省下的 80%，可能先把提示词交给了陌生人</a> - Sun, 23 Aug 2026 09:08:04 +0000
 <!-- blog ends -->
 
 ---
