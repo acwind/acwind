@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/653.html' target='_blank'>关掉手机也没用。一台普通路由器，正以近100%的准确率"认出"你</a> - 
-* <a href='https://blog.animesdata.com/articles/654.html' target='_blank'>Wi‑Fi 8 不再只卷网速：下一代无线，先学会别在你走动时掉线</a> - 
-* <a href='https://blog.animesdata.com/articles/652.html' target='_blank'>一个普通人让 AI 拆了家里五个外设：原来“拥有”还不等于真正拥有？</a> - 
-* <a href='https://blog.animesdata.com/articles/651.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-24</a> - Mon, 24 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/649.html' target='_blank'>一本旧书被塞进 1000 册订单后，最后去了哪里？答案让整个互联网不舒服</a> - Mon, 24 Aug 2026 09:02:18 +0000
+* <a href='https://blog.animesdata.com/articles/661.html' target='_blank'>百万AI博主集体停更：算法终于不奖励"勤奋"了</a> - Wed, 26 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/662.html' target='_blank'>X 发来律师函，先消失的却是“围观互联网”的那扇窗</a> - Wed, 26 Aug 2026 07:06:13 +0000
+* <a href='https://blog.animesdata.com/articles/660.html' target='_blank'>软件、数字商品与服务的 TEMU 化</a> - 
+* <a href='https://blog.animesdata.com/articles/659.html' target='_blank'>为什么我彻底关闭 SSH 22 端口（以及我用什么替代）</a> - 
+* <a href='https://blog.animesdata.com/articles/658.html' target='_blank'>制表符、空格、手工工具与安全带</a> - 
 <!-- blog ends -->
 
 ---
