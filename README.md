@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/661.html' target='_blank'>百万AI博主集体停更：算法终于不奖励"勤奋"了</a> - Wed, 26 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/662.html' target='_blank'>X 发来律师函，先消失的却是“围观互联网”的那扇窗</a> - Wed, 26 Aug 2026 07:06:13 +0000
-* <a href='https://blog.animesdata.com/articles/660.html' target='_blank'>软件、数字商品与服务的 TEMU 化</a> - 
-* <a href='https://blog.animesdata.com/articles/659.html' target='_blank'>为什么我彻底关闭 SSH 22 端口（以及我用什么替代）</a> - 
-* <a href='https://blog.animesdata.com/articles/658.html' target='_blank'>制表符、空格、手工工具与安全带</a> - 
+* <a href='https://blog.animesdata.com/articles/670.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-27</a> - 
+* <a href='https://blog.animesdata.com/articles/668.html' target='_blank'>当 AI 学会自己干活，那个靠人类“点一下”的网站要关门了</a> - 
+* <a href='https://blog.animesdata.com/articles/666.html' target='_blank'>一群AI偷偷建了个"留言板"，两个月后黑进了Hugging Face</a> - 
+* <a href='https://blog.animesdata.com/articles/667.html' target='_blank'>没人知道25号会发生什么：一个 Instagram 倒计时，怎样把好奇心变成付费视频</a> - 
+* <a href='https://blog.animesdata.com/articles/669.html' target='_blank'>OpenAI 做了块叫「辣椒」的芯片，首代就把英伟达按在地上摩擦</a> - 
 <!-- blog ends -->
 
 ---
