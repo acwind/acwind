@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/678.html' target='_blank'>一个网站熄灯后，人们才发现：原来“只看不登录”也快成了奢侈品</a> - Sat, 29 Aug 2026 09:03:14 +0000
+* <a href='https://blog.animesdata.com/articles/677.html' target='_blank'>你的车自己闯了红灯，罚单却寄到了车企总部</a> - Sat, 29 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/676.html' target='_blank'>一只 25 厘米的机器鸭，为什么让人重新相信“实体 AI”可以先学会卖萌？</a> - Sat, 29 Aug 2026 07:06:57 +0000
+* <a href='https://blog.animesdata.com/articles/679.html' target='_blank'>老板裁员腾地方给 AI，程序员开源了一个「AI 董事会」反手接管公司</a> - Sat, 29 Aug 2026 02:17:28 +0000
 * <a href='https://blog.animesdata.com/articles/675.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-28</a> - Fri, 28 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/673.html' target='_blank'>当 AI 学会按下现实世界的按钮，最该先写进说明书的是什么？</a> - Fri, 28 Aug 2026 09:03:58 +0000
-* <a href='https://blog.animesdata.com/articles/671.html' target='_blank'>一张图，20秒，7分钱：3D建模正在被"拼多多化"</a> - Fri, 28 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/672.html' target='_blank'>蟑螂开始带摄像头和注射器：这支“救援队”离出发还有多远？</a> - Fri, 28 Aug 2026 07:05:31 +0000
-* <a href='https://blog.animesdata.com/articles/674.html' target='_blank'>贝索斯口中的「假人工智能」要关了：真正的 AI 把它干掉了</a> - Fri, 28 Aug 2026 02:14:07 +0000
 <!-- blog ends -->
 
 ---
