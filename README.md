@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/678.html' target='_blank'>一个网站熄灯后，人们才发现：原来“只看不登录”也快成了奢侈品</a> - Sat, 29 Aug 2026 09:03:14 +0000
-* <a href='https://blog.animesdata.com/articles/677.html' target='_blank'>你的车自己闯了红灯，罚单却寄到了车企总部</a> - Sat, 29 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/676.html' target='_blank'>一只 25 厘米的机器鸭，为什么让人重新相信“实体 AI”可以先学会卖萌？</a> - Sat, 29 Aug 2026 07:06:57 +0000
-* <a href='https://blog.animesdata.com/articles/679.html' target='_blank'>老板裁员腾地方给 AI，程序员开源了一个「AI 董事会」反手接管公司</a> - Sat, 29 Aug 2026 02:17:28 +0000
-* <a href='https://blog.animesdata.com/articles/675.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-28</a> - Fri, 28 Aug 2026 13:30:00 +0000
+* <a href='https://blog.animesdata.com/articles/685.html' target='_blank'>人生的意义究竟是什么——快乐不能被追求</a> - Sun, 30 Aug 2026 10:24:01 +0000
+* <a href='https://blog.animesdata.com/articles/683.html' target='_blank'>一款不想让你上瘾的社交 App，刚融了 2100 万美元</a> - Sun, 30 Aug 2026 08:17:13 +0000
+* <a href='https://blog.animesdata.com/articles/681.html' target='_blank'>跑赢博尔特的机器人，卡在了一道"学龄前"的题上</a> - Sun, 30 Aug 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/682.html' target='_blank'>只因为“方块味”太像？Luanti 被 AI 版权投诉下架的 46 天风险</a> - Sun, 30 Aug 2026 07:06:24 +0000
+* <a href='https://blog.animesdata.com/articles/684.html' target='_blank'>一张显卡塞进 7530 亿参数？有人把「本地跑大模型」的门槛砸穿了</a> - Sun, 30 Aug 2026 02:13:21 +0000
 <!-- blog ends -->
 
 ---
