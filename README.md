@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/690.html' target='_blank'>全网突然说“2026 是新的 2016”：大家怀念的，可能不是十年前</a> - Mon, 31 Aug 2026 09:05:51 +0000
+* <a href='https://blog.animesdata.com/articles/689.html' target='_blank'>Chrome 把最后一批“旧插件”下架了：我们亲手装出来的互联网，正在悄悄消失</a> - Mon, 31 Aug 2026 08:41:41 +0000
+* <a href='https://blog.animesdata.com/articles/691.html' target='_blank'>没人认领的 AI 火了，网友靠数 emoji 把幕后老板揪出来了</a> - Mon, 31 Aug 2026 02:02:29 +0000
+* <a href='https://blog.animesdata.com/articles/686.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-30</a> - Sun, 30 Aug 2026 13:30:00 +0000
 * <a href='https://blog.animesdata.com/articles/685.html' target='_blank'>人生的意义究竟是什么——快乐不能被追求</a> - Sun, 30 Aug 2026 10:24:01 +0000
-* <a href='https://blog.animesdata.com/articles/683.html' target='_blank'>一款不想让你上瘾的社交 App，刚融了 2100 万美元</a> - Sun, 30 Aug 2026 08:17:13 +0000
-* <a href='https://blog.animesdata.com/articles/681.html' target='_blank'>跑赢博尔特的机器人，卡在了一道"学龄前"的题上</a> - Sun, 30 Aug 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/682.html' target='_blank'>只因为“方块味”太像？Luanti 被 AI 版权投诉下架的 46 天风险</a> - Sun, 30 Aug 2026 07:06:24 +0000
-* <a href='https://blog.animesdata.com/articles/684.html' target='_blank'>一张显卡塞进 7530 亿参数？有人把「本地跑大模型」的门槛砸穿了</a> - Sun, 30 Aug 2026 02:13:21 +0000
 <!-- blog ends -->
 
 ---
