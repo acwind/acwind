@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/693.html' target='_blank'>转人工喊破喉咙也没用？9月1日起，这道门国家替你打开了</a> - 
+* <a href='https://blog.animesdata.com/articles/694.html' target='_blank'>OpenShot 4.0 不只会剪视频：免费软件为什么开始补齐“整条创作链”？</a> - 
+* <a href='https://blog.animesdata.com/articles/695.html' target='_blank'>浪费 1 个字节就要多烧 250GB？Cloudflare 靠「抠内存」抠出了 100TB</a> - 
+* <a href='https://blog.animesdata.com/articles/692.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-31</a> - Mon, 31 Aug 2026 13:30:00 +0000
 * <a href='https://blog.animesdata.com/articles/690.html' target='_blank'>全网突然说“2026 是新的 2016”：大家怀念的，可能不是十年前</a> - Mon, 31 Aug 2026 09:05:51 +0000
-* <a href='https://blog.animesdata.com/articles/689.html' target='_blank'>Chrome 把最后一批“旧插件”下架了：我们亲手装出来的互联网，正在悄悄消失</a> - Mon, 31 Aug 2026 08:41:41 +0000
-* <a href='https://blog.animesdata.com/articles/691.html' target='_blank'>没人认领的 AI 火了，网友靠数 emoji 把幕后老板揪出来了</a> - Mon, 31 Aug 2026 02:02:29 +0000
-* <a href='https://blog.animesdata.com/articles/686.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-30</a> - Sun, 30 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/685.html' target='_blank'>人生的意义究竟是什么——快乐不能被追求</a> - Sun, 30 Aug 2026 10:24:01 +0000
 <!-- blog ends -->
 
 ---
