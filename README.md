@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/693.html' target='_blank'>转人工喊破喉咙也没用？9月1日起，这道门国家替你打开了</a> - 
-* <a href='https://blog.animesdata.com/articles/694.html' target='_blank'>OpenShot 4.0 不只会剪视频：免费软件为什么开始补齐“整条创作链”？</a> - 
-* <a href='https://blog.animesdata.com/articles/695.html' target='_blank'>浪费 1 个字节就要多烧 250GB？Cloudflare 靠「抠内存」抠出了 100TB</a> - 
-* <a href='https://blog.animesdata.com/articles/692.html' target='_blank'>每日 App 开发灵感报告 - 2026-08-31</a> - Mon, 31 Aug 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/690.html' target='_blank'>全网突然说“2026 是新的 2016”：大家怀念的，可能不是十年前</a> - Mon, 31 Aug 2026 09:05:51 +0000
+* <a href='https://blog.animesdata.com/articles/698.html' target='_blank'>没有 HTML，没有 CSS：Runway 让界面一帧一帧"长"出来</a> - Wed, 02 Sep 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/699.html' target='_blank'>MacBook 刘海里住进一只小怪兽：Notchling 为什么突然火了？</a> - Wed, 02 Sep 2026 07:04:33 +0000
+* <a href='https://blog.animesdata.com/articles/700.html' target='_blank'>点一下按钮，背后居然没有一行代码？Runway 把软件界面做成了「实时生成的视频」</a> - Wed, 02 Sep 2026 02:04:20 +0000
+* <a href='https://blog.animesdata.com/articles/697.html' target='_blank'>当 ChatGPT 开始卖广告：你问的下一句，正在变成一门生意</a> - 
+* <a href='https://blog.animesdata.com/articles/696.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-01</a> - 
 <!-- blog ends -->
 
 ---
