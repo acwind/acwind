@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/698.html' target='_blank'>没有 HTML，没有 CSS：Runway 让界面一帧一帧"长"出来</a> - Wed, 02 Sep 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/699.html' target='_blank'>MacBook 刘海里住进一只小怪兽：Notchling 为什么突然火了？</a> - Wed, 02 Sep 2026 07:04:33 +0000
-* <a href='https://blog.animesdata.com/articles/700.html' target='_blank'>点一下按钮，背后居然没有一行代码？Runway 把软件界面做成了「实时生成的视频」</a> - Wed, 02 Sep 2026 02:04:20 +0000
-* <a href='https://blog.animesdata.com/articles/697.html' target='_blank'>当 ChatGPT 开始卖广告：你问的下一句，正在变成一门生意</a> - 
-* <a href='https://blog.animesdata.com/articles/696.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-01</a> - 
+* <a href='https://blog.animesdata.com/articles/704.html' target='_blank'>以后刷文章，先看它像不像人写的？Substack 把这个按钮交给了读者</a> - 
+* <a href='https://blog.animesdata.com/articles/702.html' target='_blank'>35亿参数干出500亿的活：GPT-6 的"省算力魔法"，代价是没人看得懂它在想什么</a> - 
+* <a href='https://blog.animesdata.com/articles/703.html' target='_blank'>一个捐赠链接，为什么差点让 AnkiDroid 从 Google Play 消失？</a> - 
+* <a href='https://blog.animesdata.com/articles/705.html' target='_blank'>清理磁盘时吓一跳：ChatGPT 桌面版偷偷塞进了整套 LibreOffice</a> - 
+* <a href='https://blog.animesdata.com/articles/701.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-02</a> - Wed, 02 Sep 2026 13:30:00 +0000
 <!-- blog ends -->
 
 ---
