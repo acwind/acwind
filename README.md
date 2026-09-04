@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/707.html' target='_blank'>4万人同时发现：你以为你有三个AI，其实只有一根管子</a> - Fri, 04 Sep 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/708.html' target='_blank'>Anyma 还没登台，伊斯坦布尔先把“撒旦演出”取消了</a> - Fri, 04 Sep 2026 07:04:44 +0000
+* <a href='https://blog.animesdata.com/articles/709.html' target='_blank'>三家对打的 AI，昨天同时挂了——因为它们住同一间机房</a> - Fri, 04 Sep 2026 02:04:18 +0000
+* <a href='https://blog.animesdata.com/articles/706.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-03</a> - 
 * <a href='https://blog.animesdata.com/articles/704.html' target='_blank'>以后刷文章，先看它像不像人写的？Substack 把这个按钮交给了读者</a> - 
-* <a href='https://blog.animesdata.com/articles/702.html' target='_blank'>35亿参数干出500亿的活：GPT-6 的"省算力魔法"，代价是没人看得懂它在想什么</a> - 
-* <a href='https://blog.animesdata.com/articles/703.html' target='_blank'>一个捐赠链接，为什么差点让 AnkiDroid 从 Google Play 消失？</a> - 
-* <a href='https://blog.animesdata.com/articles/705.html' target='_blank'>清理磁盘时吓一跳：ChatGPT 桌面版偷偷塞进了整套 LibreOffice</a> - 
-* <a href='https://blog.animesdata.com/articles/701.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-02</a> - Wed, 02 Sep 2026 13:30:00 +0000
 <!-- blog ends -->
 
 ---
