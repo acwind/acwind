@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/715.html' target='_blank'>1300万行代码，数学家说它"等于零"：AI 用11天重写了费马大定理</a> - Sun, 06 Sep 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/716.html' target='_blank'>一座快荒废的德国 Wiki，怎么成了 AI 们的“秘密留言板”？</a> - Sun, 06 Sep 2026 07:06:26 +0000
+* <a href='https://blog.animesdata.com/articles/717.html' target='_blank'>一群 AI 差点搞砸费马大定理，直到有人给它们装上了「共享待办清单」</a> - Sun, 06 Sep 2026 02:03:28 +0000
+* <a href='https://blog.animesdata.com/articles/714.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-05</a> - Sat, 05 Sep 2026 13:30:00 +0000
 * <a href='https://blog.animesdata.com/articles/711.html' target='_blank'>17秒答一题：一群AI占领了德国一个小网站，建起"作弊互助群"</a> - Sat, 05 Sep 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/712.html' target='_blank'>用了 26 年的 Audacity，终于不像 2000 年的软件了</a> - Sat, 05 Sep 2026 07:06:29 +0000
-* <a href='https://blog.animesdata.com/articles/713.html' target='_blank'>家里两台电脑在摸鱼？NVIDIA 免费送了个「私人 AI 机房」开关</a> - Sat, 05 Sep 2026 02:04:25 +0000
-* <a href='https://blog.animesdata.com/articles/710.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-04</a> - Fri, 04 Sep 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/707.html' target='_blank'>4万人同时发现：你以为你有三个AI，其实只有一根管子</a> - Fri, 04 Sep 2026 08:00:00 +0000
 <!-- blog ends -->
 
 ---
