@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/727.html' target='_blank'>他请了两周假，最后竟然在补三角函数</a> - 
-* <a href='https://blog.animesdata.com/articles/725.html' target='_blank'>真群演日薪两百，游客花388当主角：横店的镜头前，换人了</a> - 
-* <a href='https://blog.animesdata.com/articles/726.html' target='_blank'>一个社交网络故意不用 POST：GET Together 为什么让程序员笑完又担心？</a> - 
-* <a href='https://blog.animesdata.com/articles/728.html' target='_blank'>安全告警 CVSS 9.8，函数却不存在：这波「幻觉漏洞」正在骗过全球扫描器</a> - 
-* <a href='https://blog.animesdata.com/articles/724.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-07</a> - Mon, 07 Sep 2026 13:30:00 +0000
+* <a href='https://blog.animesdata.com/articles/732.html' target='_blank'>把洛杉矶倒回1880年后，网友发现：消失的房子回不来了</a> - Wed, 09 Sep 2026 08:20:09 +0000
+* <a href='https://blog.animesdata.com/articles/730.html' target='_blank'>一年前拒绝5亿，一年后129亿卖身：AI 最中立的广场，姓了英伟达</a> - Wed, 09 Sep 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/731.html' target='_blank'>林克变清楚了，童年却有点陌生：《时之笛》重制版为何吵起来？</a> - Wed, 09 Sep 2026 07:05:00 +0000
+* <a href='https://blog.animesdata.com/articles/733.html' target='_blank'>软件圈卷完 AI 写代码，有人把 Cursor 造进了电路板</a> - Wed, 09 Sep 2026 02:04:21 +0000
+* <a href='https://blog.animesdata.com/articles/729.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-08</a> - 
 <!-- blog ends -->
 
 ---
