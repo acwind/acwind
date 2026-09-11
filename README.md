@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/735.html' target='_blank'>下午三点问AI最贵，凌晨三点最便宜</a> - 
-* <a href='https://blog.animesdata.com/articles/736.html' target='_blank'>有人把电子书做成了打印机，网友笑完却想要同款</a> - 
-* <a href='https://blog.animesdata.com/articles/737.html' target='_blank'>护照那么大的 iPhone，展开却能当小电脑用</a> - 
-* <a href='https://blog.animesdata.com/articles/734.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-09</a> - Wed, 09 Sep 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/732.html' target='_blank'>把洛杉矶倒回1880年后，网友发现：消失的房子回不来了</a> - Wed, 09 Sep 2026 08:20:09 +0000
+* <a href='https://blog.animesdata.com/articles/743.html' target='_blank'>1分钟偷走63个声音，判赔75万：AI偷声的第一份价目表</a> - Fri, 11 Sep 2026 08:00:00 +0000
+* <a href='https://blog.animesdata.com/articles/742.html' target='_blank'>只想把按钮改成蓝色，怎么就和 AI 吵了一下午？</a> - Fri, 11 Sep 2026 07:04:09 +0000
+* <a href='https://blog.animesdata.com/articles/744.html' target='_blank'>私人 AI 能替你回邮件，却连密码都摸不到：Meta 把 Agent 关进了「双层保险箱」</a> - Fri, 11 Sep 2026 02:03:50 +0000
+* <a href='https://blog.animesdata.com/articles/740.html' target='_blank'>致我认识的 56 个人的公开信</a> - 
+* <a href='https://blog.animesdata.com/articles/739.html' target='_blank'>如何存在</a> - 
 <!-- blog ends -->
 
 ---
