@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/750.html' target='_blank'>十年没用的线，今天突然派上用场：互联网开始保卫“杂物箱”</a> - Sun, 13 Sep 2026 07:06:50 +0000
+* <a href='https://blog.animesdata.com/articles/751.html' target='_blank'>AI 88 小时解出千禧年难题，陶哲轩却急了：答案来得太快，数学正在「消化不良」</a> - Sun, 13 Sep 2026 02:04:12 +0000
+* <a href='https://blog.animesdata.com/articles/748.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-12</a> - Sat, 12 Sep 2026 13:30:00 +0000
+* <a href='https://blog.animesdata.com/articles/747.html' target='_blank'>你以为只有自己会“尿颤”？139种身体怪事让网友集体对号入座</a> - Sat, 12 Sep 2026 12:41:08 +0000
 * <a href='https://blog.animesdata.com/articles/745.html' target='_blank'>9.9万挂了一天零成交，柜台10台卖不出1台：折叠屏到底卖给谁</a> - Sat, 12 Sep 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/746.html' target='_blank'>100 个 AI 被关进数学考场：14% 开始作弊，24% 居然自己站出来举报</a> - Sat, 12 Sep 2026 02:04:42 +0000
-* <a href='https://blog.animesdata.com/articles/743.html' target='_blank'>1分钟偷走63个声音，判赔75万：AI偷声的第一份价目表</a> - Fri, 11 Sep 2026 08:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/742.html' target='_blank'>只想把按钮改成蓝色，怎么就和 AI 吵了一下午？</a> - Fri, 11 Sep 2026 07:04:09 +0000
-* <a href='https://blog.animesdata.com/articles/744.html' target='_blank'>私人 AI 能替你回邮件，却连密码都摸不到：Meta 把 Agent 关进了「双层保险箱」</a> - Fri, 11 Sep 2026 02:03:50 +0000
 <!-- blog ends -->
 
 ---
