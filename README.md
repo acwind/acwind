@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/760.html' target='_blank'>这块会听鸟的电子墨水相框，让 AI 终于安静下来</a> - Wed, 16 Sep 2026 11:09:56 +0000
+* <a href='https://blog.animesdata.com/articles/759.html' target='_blank'>科学家刚把果蝇大脑完整画出来，网友立刻拿它去打《毁灭战士》</a> - Wed, 16 Sep 2026 02:10:19 +0000
+* <a href='https://blog.animesdata.com/articles/757.html' target='_blank'>一台电子书阅读器有条纹，他让 AI 修好了，也看清了 AI 最怕什么</a> - 
+* <a href='https://blog.animesdata.com/articles/758.html' target='_blank'>我的电子阅读器为何失去条纹</a> - 
 * <a href='https://blog.animesdata.com/articles/756.html' target='_blank'>AI 还在写「无缝衔接」「至关重要」？装上这个 Skill，它开始像修飞机的人说话</a> - 
-* <a href='https://blog.animesdata.com/articles/755.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-14</a> - Mon, 14 Sep 2026 13:30:00 +0000
-* <a href='https://blog.animesdata.com/articles/754.html' target='_blank'>遥控器人呢？宇树人形机器人自己跟人过招了，靠的不是更快反应，是「脑补下一秒」</a> - Mon, 14 Sep 2026 02:02:26 +0000
-* <a href='https://blog.animesdata.com/articles/753.html' target='_blank'>想要成功，你就得有点妄想</a> - Sun, 13 Sep 2026 18:00:00 +0000
-* <a href='https://blog.animesdata.com/articles/752.html' target='_blank'>每日 App 开发灵感报告 - 2026-09-13</a> - Sun, 13 Sep 2026 13:30:00 +0000
 <!-- blog ends -->
 
 ---
