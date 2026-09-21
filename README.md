@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/765.html' target='_blank'>Hugging Face 删了模型？有人用「老式种子」给开源 AI 做了个永不下架的备份</a> - Mon, 21 Sep 2026 02:03:18 +0000
 * <a href='https://blog.animesdata.com/articles/764.html' target='_blank'>窗外鸟叫了一声，相框里就多了一幅十九世纪的鸟类插画</a> - Sun, 20 Sep 2026 02:10:24 +0000
 * <a href='https://blog.animesdata.com/articles/763.html' target='_blank'>电视关了盒子还在打工？你买的几十块安卓盒，可能在帮别人刷广告</a> - Sat, 19 Sep 2026 02:19:18 +0000
 * <a href='https://blog.animesdata.com/articles/760.html' target='_blank'>这块会听鸟的电子墨水相框，让 AI 终于安静下来</a> - Wed, 16 Sep 2026 11:09:56 +0000
 * <a href='https://blog.animesdata.com/articles/757.html' target='_blank'>一台电子书阅读器有条纹，他让 AI 修好了，也看清了 AI 最怕什么</a> - 
-* <a href='https://blog.animesdata.com/articles/758.html' target='_blank'>我的电子阅读器为何失去条纹</a> - 
 <!-- blog ends -->
 
 ---
