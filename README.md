@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
-* <a href='https://blog.animesdata.com/articles/769.html' target='_blank'>AI 写了两千行，你却回不去自己的仓库了？这块白板专治「认知债」</a> - Fri, 25 Sep 2026 02:02:11 +0000
-* <a href='https://blog.animesdata.com/articles/768.html' target='_blank'>AI 写出来的「专家情侣」不存在，却已经发了上千篇带 DOI 的论文</a> - 
-* <a href='https://blog.animesdata.com/articles/767.html' target='_blank'>你跟 AI 聊了三天的项目交接包，对方模型根本打不开</a> - Wed, 23 Sep 2026 02:16:06 +0000
-* <a href='https://blog.animesdata.com/articles/766.html' target='_blank'>这款 AI 一个字都不会写，却一天抢下 13% 付费开发者</a> - 
-* <a href='https://blog.animesdata.com/articles/765.html' target='_blank'>Hugging Face 删了模型？有人用「老式种子」给开源 AI 做了个永不下架的备份</a> - Mon, 21 Sep 2026 02:03:18 +0000
+* <a href='https://blog.animesdata.com/articles/771.html' target='_blank'>M5 Ultra Mac Studio 评测：本地 AI 智能体的梦想 Mac</a> - Sun, 27 Sep 2026 13:04:44 +0000
+* <a href='https://blog.animesdata.com/articles/770.html' target='_blank'>你拥有的只有注意力</a> - Sun, 27 Sep 2026 13:03:57 +0000
+* <a href='https://blog.animesdata.com/articles/764.html' target='_blank'>窗外鸟叫了一声，相框里就多了一幅十九世纪的鸟类插画</a> - Sun, 20 Sep 2026 02:10:24 +0000
+* <a href='https://blog.animesdata.com/articles/763.html' target='_blank'>电视关了盒子还在打工？你买的几十块安卓盒，可能在帮别人刷广告</a> - Sat, 19 Sep 2026 02:19:18 +0000
+* <a href='https://blog.animesdata.com/articles/760.html' target='_blank'>这块会听鸟的电子墨水相框，让 AI 终于安静下来</a> - Wed, 16 Sep 2026 11:09:56 +0000
 <!-- blog ends -->
 
 ---
