@@ -1,4 +1,5 @@
-python-graphql-client==0.3.0
+python-graphql-client==0.4.3
+aiohttp>=3.9,<4
 httpx
 feedparser
 datetime
