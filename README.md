@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/792.html' target='_blank'>饥渴胜过资历：给初级工程师的建议</a> - Sun, 01 Nov 2026 08:06:11 +0000
+* <a href='https://blog.animesdata.com/articles/791.html' target='_blank'>与智能体一起做计划：分裂的世界、边界对象与更厚的界面</a> - Sun, 01 Nov 2026 08:05:24 +0000
 * <a href='https://blog.animesdata.com/articles/790.html' target='_blank'>AI 助手为拿不到的退款能走多远？</a> - Fri, 30 Oct 2026 12:55:00 +0000
 * <a href='https://blog.animesdata.com/articles/789.html' target='_blank'>vibe 游戏开发的十月拐点</a> - 
 * <a href='https://blog.animesdata.com/articles/788.html' target='_blank'>AI 智能体如何塑造专家的判断</a> - 
-* <a href='https://blog.animesdata.com/articles/787.html' target='_blank'>能力过剩</a> - 
-* <a href='https://blog.animesdata.com/articles/786.html' target='_blank'>互联网的终结</a> - 
 <!-- blog ends -->
 
 ---
