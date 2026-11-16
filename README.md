@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ## 📝 Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/806.html' target='_blank'>网页已经绰绰有余</a> - Mon, 16 Nov 2026 09:49:07 +0000
+* <a href='https://blog.animesdata.com/articles/805.html' target='_blank'>AI 与产品岗位的未来</a> - Mon, 16 Nov 2026 09:47:25 +0000
+* <a href='https://blog.animesdata.com/articles/804.html' target='_blank'>用写作来思考</a> - Mon, 16 Nov 2026 09:40:46 +0000
 * <a href='https://blog.animesdata.com/articles/803.html' target='_blank'>不要这样去做一款音乐播放器</a> - Sun, 15 Nov 2026 10:48:09 +0000
 * <a href='https://blog.animesdata.com/articles/802.html' target='_blank'>守住那团火</a> - 
-* <a href='https://blog.animesdata.com/articles/801.html' target='_blank'>斯坦福成瘾科主任：最严重的成瘾，迷恋的根本不是快感，而是“控制感”</a> - Wed, 11 Nov 2026 15:39:04 +0000
-* <a href='https://blog.animesdata.com/articles/800.html' target='_blank'>我现在几乎什么都能做出来。什么值得做？</a> - 
-* <a href='https://blog.animesdata.com/articles/799.html' target='_blank'>里安·约翰逊为什么非得自己做一款 iPhone 相机 App</a> - Mon, 09 Nov 2026 09:32:16 +0000
 <!-- blog ends -->
 
 ---
