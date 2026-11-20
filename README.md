@@ -4,7 +4,7 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 
 ---
 
-### 📝 Recent Blog Posts
+### 📝 最新博文 · Recent Blog Posts
 
 <!-- blog starts -->
 * <a href='https://blog.animesdata.com/articles/811.html' target='_blank'>关于创造力，以及卡住的时候</a> - 
@@ -16,13 +16,13 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 
 ---
 
-### 🎬 最近观看剧集
+### 🎬 最近观看剧集 · Recently Watched Shows
 
 [![Trakt Watching](https://www.animesdata.com/api/trakt/latest-backdrop)](https://trakt.tv/users/acwind)
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 技术栈 · Tech Stack
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
