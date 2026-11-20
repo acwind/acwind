@@ -18,7 +18,7 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 
 ## 🎬 Recently Watching
 
-[![Trakt Watching](https://widgets.trakt.tv/users/1f712e5c320ac20984774069f2b6daa7/watched/fanart2.jpg)](https://trakt.tv/users/acwind)
+[![Trakt Watching](https://www.animesdata.com/api/trakt/latest-backdrop)](https://trakt.tv/users/acwind)
 
 ---
 
