@@ -124,15 +124,17 @@ def fetch_douban():
 
 def fetch_blog_entries():
     entries = feedparser.parse("https://blog.animesdata.com/feed.xml")["entries"]
-    return [
-        {
+    posts = []
+    for entry in entries:
+        if "灵感报告" in entry["title"]:
+            continue
+        published = entry.get("published_parsed")
+        posts.append({
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": entry["published"].split("T")[0],
-        }
-        for entry in entries
-        if "灵感报告" not in entry["title"]
-    ]
+            "published": datetime.date(*published[:3]).isoformat() if published else "",
+        })
+    return posts
 
 
 if __name__ == "__main__":
@@ -186,11 +188,12 @@ if __name__ == "__main__":
     weekly_text = "\n"+fetch_weekly()
     rewritten = replace_chunk(rewritten, "weekly", weekly_text)
 
-    entries = fetch_blog_entries()[:5]
-    entries_md = "\n".join(
-        #["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
-        ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
-    )
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
+    entries_md = []
+    for entry in fetch_blog_entries()[:5]:
+        line = "* <a href='{url}' target='_blank'>{title}</a>".format(**entry)
+        if entry["published"]:
+            line += " - " + entry["published"]
+        entries_md.append(line)
+    rewritten = replace_chunk(rewritten, "blog", "\n".join(entries_md))
 
     readme.open("w").write(rewritten)
