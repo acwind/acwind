@@ -131,6 +131,7 @@ def fetch_blog_entries():
             "published": entry["published"].split("T")[0],
         }
         for entry in entries
+        if "灵感报告" not in entry["title"]
     ]
 
 
