@@ -4,7 +4,7 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 
 ---
 
-## 📝 Recent Blog Posts
+### 📝 Recent Blog Posts
 
 <!-- blog starts -->
 * <a href='https://blog.animesdata.com/articles/812.html' target='_blank'>每日 App 开发灵感报告 - 2026-11-20</a> - Fri, 20 Nov 2026 13:30:00 +0000
@@ -16,13 +16,13 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 
 ---
 
-## 🎬 Recently Watching
+### 🎬 最近观看剧集
 
 [![Trakt Watching](https://www.animesdata.com/api/trakt/latest-backdrop)](https://trakt.tv/users/acwind)
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
