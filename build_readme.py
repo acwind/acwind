@@ -123,7 +123,13 @@ def fetch_douban():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://blog.animesdata.com/feed.xml")["entries"]
+    feed_url = "https://blog.animesdata.com/feed.xml"
+    run_id = os.getenv("GITHUB_RUN_ID")
+    if run_id:
+        run_attempt = os.getenv("GITHUB_RUN_ATTEMPT", "1")
+        feed_url += f"?run={run_id}-{run_attempt}"
+
+    entries = feedparser.parse(feed_url)["entries"]
     posts = []
     for entry in entries:
         if "灵感报告" in entry["title"]:
