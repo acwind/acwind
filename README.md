@@ -7,11 +7,11 @@ I'm a developer who enjoys building small tools, apps, and writing about tech & 
 ### 📝 最新博文 · Recent Blog Posts
 
 <!-- blog starts -->
+* <a href='https://blog.animesdata.com/articles/827.html' target='_blank'>为什么我们不再有趣了</a> - 2026-11-26
 * <a href='https://blog.animesdata.com/articles/825.html' target='_blank'>一个人应该离线到什么程度？</a> - 2026-11-25
 * <a href='https://blog.animesdata.com/articles/823.html' target='_blank'>抢走千万钻石，坐了11年牢：前甘比诺家族劫匪亲述黑帮法则与高墙深处</a> - 2026-11-24
 * <a href='https://blog.animesdata.com/articles/822.html' target='_blank'>压力大、睡不着、大脑太累，普通人怎么用音乐和艺术给自己“充电”？</a> - 2026-11-24
 * <a href='https://blog.animesdata.com/articles/820.html' target='_blank'>我找齐了《GTA 6》里的全部 60 种鸟：一位观鸟者的罪恶都市野生动物指南</a> - 2026-11-23
-* <a href='https://blog.animesdata.com/articles/818.html' target='_blank'>控制着身体的头脑，与控制着头脑的身体</a> - 2026-11-22
 <!-- blog ends -->
 
 ---
